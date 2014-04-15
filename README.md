@@ -8,3 +8,4 @@ First, I need to do is feature selection. I will try two different methods on fa
 
 Then, I will use SVM and NN with different parameters to classify these faces.
 
+Copy right by Charles Xu: charlesxu90@gmail.com
