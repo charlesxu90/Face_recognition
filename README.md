@@ -1,3 +1,8 @@
+Face recognition
+===================
+
+Project mainpage is published at http://charlesxu90.github.io/Face_recognition
+
 Face recognition is a very hot topic in Machine Learning. In this project, I will explore some existing methods on face recognition.
 
 Image_proc is an simple example on how to process images.
