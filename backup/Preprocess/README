@@ -1,0 +1,12 @@
+These scripts are to preprocess the images, so that the eyes are centered and 
+only the useful part of the image are selected for analysis.
+============
+
+face_setup     loads global vars
+pad_faces      squares up the faces. this is good useful for rotating them
+shift_faces    to center the eyes
+rotate_faces   to align the eyes by rotation.
+unpad_faces    to reduce the image size by removing border and downsampling.
+support_faces  zero out unsupposed pixels.
+pca_faces      run svd on faces
+dump_bases     writes out average face, eigenvalues, and eigvectors

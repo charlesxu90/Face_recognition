@@ -1,0 +1,608 @@
+P5
+# MatLab PGMWRITE file, saved 02-May-2014
+320 320
+255
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿOIP\[Y^YOFJSTPTXZ[YTVXPIFLY\ag`ZY\cfhhcXSV[chg`cfeffc_\^hvtgb_Z\^\ap{zqhaZ_mpnmhhsvsljmmjgeefmqtmhq{tnigjlmqwxtpswƒ}xoijfcio¨קÿÿÿÿÿÿÿÿנÞׂ״הןתפליץÿÿÿÿÿÿ‎מחופÿÿÿÿÿÿÿÿûנחטפÿÿÿÿÿÿÿÿÿÿÿÿÿÿצמיטן‏ÿÿÿÿûקÿÿÿÿÿÿקûÿÿÿÿÿÿÿÿפ‏ÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿששÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüûûקלכÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿשטיםצÿÿÿÿÿÿשףתÿÿÿÿÿÿÿÿקילüתףפןמÿÿÿש¬¡±ֳִָÊֳ°¢¨¶»·÷¾ֳֵֹ¼¼¾³§¢¬ֳֻ׃Ý׃ִֶֻÚÝהוװֱ¸¼ֶ׳גß׃״ÛÙÝÞÙֻּׂגüצבװָֻֿ׀ּײץÿÿןגװָ׃םפמיבגק‏פכילכוßÛÚÞטפצלהץÿתןואבוכעÿÿתצשÿÿÿÿÿ‏מגגßÛבמûÿÿÿÿÿÿÿÿÿמÞײÛחץ‏תנמתÿÿÿÿÿÿûםזזקÿÿÿÿÿÿÿÿפטאהשÿÿÿÿÿÿÿÿÿÿÿÿÿÿץנלהי‎ÿÿÿûקשÿÿÿÿÿÿשתÿÿÿÿÿÿÿÿק‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎üÿשעÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎‎ÿÿÿÿÿÿשלימפÿÿÿÿÿÿקצÿÿÿÿÿÿÿÿÿקלםצקקשףףÿÿÿת¦«µ»·±®«¦§´ִֵֻ´­·ֳִ÷ֳִ¬¦¥¨ֲÚÞ״ִֻÊ׀ּּÚ׳ִ÷·½׀הבֶּּֽֿÝßײÊֱָÙלףלא׀ִֹßגÝףÿÿהֻׁÊÙמףûÿץחהגÙÞהוטכוײֹÊ׳זץששÿÿףכהזיםנןכמקÿÿÿÿÿÿÿצכוהßבןÿÿשכןüÿÿÿÿÿםßאßיÿÿÿûץ‏ÿÿÿÿÿÿ‏פיל‎ÿÿÿÿÿÿןזהÞÚמÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿקפקûףשÿÿÿûכנÿÿÿÿÿÿÿÿû‎ÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקע‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎תÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿששתצÿÿÿÿÿÿÿÿץלככצÿÿÿÿÿףנעץûÿÿÿÿÿÿמיףףץÿÿÿמעûüÿ¦­´´®©¨§§¬÷ֲָּ­©¶ֳֹ¼ֲֶ®¨§­ֵÚÚװֳֶֶָֿׁײּ½»·¾ײזßֲִֻÊׁגה״ָ½ֳ׃לקןהֵֹׂßזגףÿקÙּֽֿ״טנתüמאÝÙ׃Ýגאזכזװֹ׀Ùוףû‏ÿûלוהטלמפנלנûÿÿÿÿÿÿûעטהחוהףÿÿפחנÿÿÿÿÿÿמאגגמÿÿÿקפüÿÿÿûשÿÿץככתÿÿÿÿÿקזÞאההקÿÿÿÿÿÿûÿÿÿÿÿÿ‎קקüÿתüÿÿÿûמפÿÿÿÿÿÿÿÿüüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿץמ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎üÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿ‏קשששÿÿÿÿÿÿÿÿצלחזלûÿÿÿ‏פןטלקÿÿÿÿÿÿכחץצצÿÿÿטזלף‏§®­¥₪³´¶ֱֲֵ¶¨¨¸¿»ֲּ¿¯§₪¯ֵׂ׀ֳ½ּ״װֳ½»µ¼¿¼Êאßֵׂ¼ִװÝזזׂ»°»״פצלבײֹֿßגזמכÙֻֻײײÞםץעהÚßÞ׳ÝגÙגצüםÙÛימכטצÿûזÚßיץ‏‏ציאאיÿÿתצüץלבÚטÿ‏עתÿüןצÿÿÿÿÿÿÿצםמנüÿÿףכפÿÿÿÿüü‏üפחזלÿÿÿÿûגÙÝו‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿפץüÿÿÿ‏עüÿÿÿÿ‎ü‏ûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿעןÿÿÿÿÿÿÿÿצתÿÿÿÿ‎ÿÿÿÿÿÿÿשף‎ÿÿÿÿÿÿÿÿÿûûששÿÿÿÿÿÿÿÿצפניויתÿÿÿ‎פגÚומץÿÿÿÿיÞלÿ‏üÿשßׁ׃Ûצ§°¬¡›¥¶¶µ¿ֱ¼³¥¥¶»¶ֱֲֻ°₪ ¬ִֽׂ½»ׂÞ׃¿¸µ³¼½¼ֿÝÙֲֿ½ֻ״ÛבÞָµ¯¾אשץחÚֽׂׂÝßגיז״ֻÊׂװßנץיÚÙוב״ההÚזû‏מÝומנלחף‎צג״ßן‎ÿתםהÛÛט‏ÿקץûפכאÞמÿÿףתÿתנצÿÿÿÿÿÿÿשנעפ‏ÿשכיûÿÿÿÿÿÿ‎פןטטל‎ÿÿÿףÝÝהלÿÿÿÿÿÿÿÿÿÿÿÿÿÿתןףûÿÿÿûכנÿÿÿÿÿתפעÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏‎ÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ץץÿÿÿÿÿÿÿ‏מעÿÿÿÿÿÿÿÿÿÿÿÿתץÿÿÿÿÿÿÿÿÿÿÿüתקÿÿÿÿÿÿÿÿצקשפחוצÿüÿÿשחÛאהכ‎ÿÿ‏לÞיüÿûתעß׀׀׳ץ¯±¥˜¦¶¸°®¯®®¢”¢´®®½ֱָ°¢©·ֶֿÊֲֽßÛֵ±«¨«´¼ִ׳Ùָֿ··ֽאßװֱ´¼½ׁןץגװ׃ÛßÚָֿׁזןחÚ׀ּ׀יקזÙÙזיאבכלאבףצחועצניינüץטוםûÿתטבÞÙטÿÿÿÿÿÿשנןמûÿÿüûתםחןץתÿÿÿÿÿüצעפÿÿןטעÿÿÿÿÿÿÿÿעכטכפÿÿÿÿח״זצצףûÿÿÿÿÿÿÿÿ‏תÿ‎ץםףÿÿÿÿץבגתÿÿÿÿשככ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ק‏ÿÿÿÿÿÿÿÿÿÿÿÿÿש‏‏üûתתûÿÿÿÿÿÿÿÿÿץםüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏üÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתüÿÿÿüמםפשת‎ÿצהÚ׃Ýקÿÿÿנםמפû‎קעיßÚװכ°­ ’–«¼¸°­¬¨§’¦¶¯¯½ֱָ°§®÷ִÊֶָׁÙֿ»«¥ ¦µִּÙÙֶֽ³´Êßאֿ÷±ֱֲ׀םןßׂװÝÞ״ֳֽֽםתןבֹֽׂזןÝׂÝטחאוםטÛÚלןזחנףנםלףשףכטןתûףגÞÛÞןÿÿÿÿÿÿשנןנûÿÿÿתפהßיפץתÿÿÿÿ‏שףפÿÿעכףÿÿÿÿÿÿÿÿצכחלüÿÿÿשßװישץעתÿÿÿÿÿÿÿÿûץü‏צןקÿÿÿÿפזכûÿÿÿÿשףצÿÿÿÿÿÿÿÿÿÿÿÿÿÿüÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿ‏צ‎ûûüקץ‎ÿÿÿÿÿÿÿÿÿשע‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿü‏ÿÿÿÿןינקתû‎פב׳׀Úפÿÿÿעעץקקÿ‎צףיוÙז«„«¿¶¥››——¥¨§±ֳֳ½±©®°±¼ֳִֵ»¯₪¢¢§ֵÚÙ״Ùֳׂ³³ֵׂ׀ֲ¿ֳֳָ׳גא״׀׀ÙאײָֹגÿÿתהֶֻׂÝ״׃ÞטנלחחÛּֽÞןנןםםיפשץצעחגטננעקלאהםקüשÿÿÿÿ‏ץןמצÿÿÿציÝהקתלםÿÿÿÿÿÿÿÿÿüףןפÿÿ‏ת‏ÿÿÿÿ‎נףÿÿÿÿםÞÛיûקûÿÿÿÿÿÿÿÿ‏ץףûÿÿ‎ÿÿÿÿÿקקÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿפמûÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿשקÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿûנ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿüתÿÿÿÿÿÿÿתצתÿÿÿÿÿÿÿÿÿÿתלחםףû‏ÿûיÚׂÞןüתצצשÿÿÿÿÿÿץצûמט¦–‰©»° ——–™¡¡¡°ֱ½·¬¨­¬«¸¿¾¸°§ ¡₪§ֵÚײװÙׂ¿±°¾ֵֹ¿ֱֵֶׂײבÝֹֻׂײבײֻׂלÿÿתבֵֿÊÙ׳װבכףמזב׃ֵÊßןנעעעכנצעפםאÚבןנעשמהטםץףנÿÿÿÿûפליפÿÿÿעלביקשםמÿÿÿÿÿÿÿÿÿûפצקûüץנשÿÿÿÿÿףעÿÿÿûכבßיפקÿÿÿצüÿÿÿÿüעמשÿÿÿÿÿÿÿÿץûÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿמיתÿÿÿÿÿÿÿÿÿתÿÿÿÿÿתשÿÿÿÿÿÿÿÿÿÿÿÿÿÿתûÿÿÿÿשם‎ÿÿÿÿÿÿÿÿÿÿÿÿÿקץ‎ÿÿÿÿÿûפפשÿÿÿÿÿÿÿÿÿÿûלזטןת‎‏קיßÙבעקץתûûÿÿÿ‏ÿ‏ףץ‎נט”†|{‹¡˜‰†„„˜–˜¨±© ›¡ «¬¨¢˜›¢ ₪¸ֵֵֶֻֻ¸§¢­¸½ִאגִֶײÝֽ¾»ֲאפוÞÛגשÿנÙֽ׀׀ֻּײלץעגÝײֿ׃Ûםפםצ‏שלטיימטÙ׃לÿÿÿûםטליואגתÿÿü‎תמטץÿצטןûûפעפעףÿÿÿÿÿÿÿÿ‏מנקצףמההנשÿÿÿÿשולüתעלמעףצ‎ÿÿÿץמ‎ÿÿÿÿעיפÿÿÿ‏ÿÿÿ‎שÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿכז‏ÿÿÿÿÿÿÿÿצשÿÿÿÿÿüשÿÿÿü‏ÿÿÿÿÿÿÿÿÿûמקÿÿÿÿקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿףעשÿÿÿÿÿÿÿÿÿÿÿÿÿםבבלÿÿÿÿקנןפץנכץÿÿÿÿÿÿתמחנûןםwwˆ–—ˆ‚~|~‰––‘‘¦—–™›˜₪₪₪–—¢›— µֲֹ¾ֳ¾´¥¨·¼ֵאÝֳֳײÙָ÷¸ָזעואÚÞץÿמ׳ֵָֻׁׂÙעשנßÙװ׳ÞבףץםץתץטבגזםטÙ׃םÿÿÿקיזכיבÙאצÿÿשüשמיץ‎םÞכûûןכעפץÿÿÿÿÿÿÿÿקחכפפףכבגמüÿÿÿÿשבחצץםטםץת‏ÿÿÿÿצנשÿÿÿÿפםשÿÿÿקשÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿןי‏ÿÿÿÿÿÿÿÿשת‎ÿÿÿÿ‏צ‎ÿ‏û‎ÿÿÿÿÿÿÿÿÿ‏נץÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿûלםקÿÿÿÿÿÿÿÿÿÿÿÿÿןßÛםÿÿÿÿקעץתצםטפÿÿÿÿÿ‎פכהםשמםvqqt{zspnjls}……‚ˆ„ƒˆ…‰’’––‘–––—“¶¿°§§­¬¬¾·µֱֲֳֶֶֶּ»¾ÝקםאÝ׳במעוÚׂÊ÷÷׃ףÿÿפßÚÚßטםû‎שפיÝֹׁׁכקנהÞטשûעהÚ״ונזÚיתûיהף‏ûקüשאÚם‎ץחנÿÿÿÿÿÿÿÿ‎תתטÚהןקתףחזüÿÿÿÿÿפßÚבזכםנתÿÿÿÿÿÿעחעÿÿÿÿüקüÿÿÿûתÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿששק‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿשץשצקüÿÿÿÿÿÿÿÿÿÿשקÿÿÿÿÿÿÿÿÿÿÿÿÿ‏‏ÿÿÿÿÿÿÿÿÿתחבעÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ץלהףÿÿÿצםנשÿÿתם‏ÿÿÿÿ‏נחבÝחםßחomlouupjhfffmvz|zz}~{w|}„–’’“–‘™¯´¥›¦§–¦¸´®¸ֱֲֳִ¾¿½ֲÝףטßÚ׳אימג״׃ֻ÷¸׳תÿÿפÞ׳׳Úßית‏ûץט״ֱָֿכתנהבחעףוÛװװחקםßטףמßאצÿ‏üüצבאן‏צטקÿÿÿÿÿÿÿÿצצקטÝאחף‎ûעןÿÿÿÿÿÿםÙײÛוןנףüÿÿÿÿÿ‎ןועÿÿÿÿüקû‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿשÿÿÿÿשÿÿÿÿüüÿÿÿÿÿüשפüÿÿÿÿÿÿÿÿÿÿÿÿÿÿשףתקפûÿÿÿÿÿÿÿÿÿÿשק‏ÿÿÿü‏ÿÿÿÿÿÿÿü‎ÿÿÿÿÿÿÿÿÿףאאץÿÿÿÿÿÿÿÿ‎ûÿÿÿüקמונÿÿÿעימקÿÿÿףÿÿÿÿÿ‎םזאÛוט״אba_ab_[[ZWVV\aaaegfggglmnv{|}}{|‚‚‚‹”†„“‰‰” ¦°±«¥¨±¼ֶ׃Þ״׀Ê׃ÝÛװֵÊÙׁ½¾וÿÿ‎ףבײÊִּאשת‎ÿמÙÊֻ״ילבÚווÝײ׀׀ָ׃יתץאÙÚ׃׀וÿÿÿ‎צעמצתפףץ‏ÿענÿÿÿÿצכלןעלÝÙלÿÿÿÿÿÿÿÿÿצא׃ײÞםתûÿü‎ÿÿÿÿ‏צףÿÿÿÿÿףיןûÿÿÿÿÿÿ‎שÿÿû‏ÿÿÿüÿÿÿÿÿÿÿÿÿûÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüûÿÿüûüÿÿÿÿÿÿÿûףףצשüÿÿÿÿÿÿÿÿÿÿÿץמףÿÿÿÿÿÿ‏‎קטטÿÿÿÿÿÿ‎‎ûצקתÿÿ‏ÿûען‏ÿÿ‏‎ÿÿÿÿÿüÿÿÿפפûשכßÛזםÛÞ_\Z[\YWWTSRQVYZZ\`abbbfggnqvvvusqsxz|„‹…~†‹ˆ„†˜›¢«¨¡¬½ִֻװ׃ֹּ׃״׃ֹ½ֹÝ׀½ֲטÿÿשנאװֲָּßףשÿÿעÛֿװÙגגÙ׃ÙÚװֵָֹֽװזצףßװװֽֿחÿÿÿתףמעüûפשûÿ‎כטÿÿÿÿקכלעשצג״יÿÿÿÿÿÿÿÿûמß׳Ûאמקûÿÿÿÿÿÿÿÿתקÿÿÿÿÿלחעÿÿÿÿÿÿÿקףÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿü‏ÿÿÿüשÿÿÿÿÿÿÿתףעצק‏ÿÿÿÿÿÿÿÿÿÿÿצילשÿÿÿÿ‎תûüפעÿÿÿÿÿÿשששצפüÿÿ‏‎üעלשÿÿÿÿÿÿÿÿÿ‎ÿÿ‎ילתתכÞÚזנבבTRPPMLLLMLLJJIHJKOOOQPQSTX\`a`aa_a`bjppnosx{{|}~ƒˆ‘‘‹™¥©·ֳֵ¼¼ֲֳ»±«ֳ׳ֶ·ֳועמלה״׀ֶֶֽײהןק‏עÙׁײ׃ֹׂ·°µ»¿ֳ¾¼ֲּװÛÙֿÊִֵװםףצתםחהכצ‎ÿÿÿÿÿמיÿÿÿÿ‎מםפ‎ÿתלזזםÿÿÿÿןטואבטכחפפûÿÿÿÿ‏עפÿ‎ףעüÿÿ‏נשÿÿÿÿÿÿÿשץüÿÿצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿÿÿûשÿÿÿÿÿÿ‏ûÿÿÿÿÿ‎ÿÿ‎םעÿÿÿÿÿÿÿÿÿÿÿÿÿנזטûÿÿÿ‏צפÿÿÿÿÿÿûןעץפץףצÿÿÿÿÿÿüכםÿÿÿÿÿÿÿÿ‎ü‎תכÚ׳לקכÞ״התצןROMLJJJKKKIIHEEEHIIIJJLPQRTYZZZYXXY[cjiilptuv{|z}‚…††……‘—±½÷±±··³§¦»Ê¾µֱÝכחגÛֲֶֹֽֽׁ׳הנקחּּׁÊָ½«¡§±»½¸¶÷¿ָ׀׀ֲָ¿ֱׂכףשץיהÝזףתÿÿÿÿÿםח‎ÿÿÿתםמף‎ÿקןכגחÿÿÿשכאÛאחןללתץüÿÿÿÿשםנ‎‎כופ‏ÿÿשÿÿÿÿÿÿÿצנצ‏ÿ‏ץ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏צת‏ÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿûשÿÿÿÿÿÿÿü‏ÿÿÿÿ‎ÿÿÿלכÿÿÿÿÿÿÿÿÿÿÿÿÿתלזפÿÿÿÿקףÿÿÿÿÿÿעזןףףףנפÿÿÿÿÿÿÿמלÿÿÿÿÿÿÿÿüתüשכÚײזףלß׳גתשףLIHFHHHJIFDCAABCCCBCDDCEIJKLMMLHHKLPTY[^_afhmpooqppppqv{|{ˆ“›™”“—™‘“¢¨₪§®ֳִֿ½½÷µ´··¶¾ִֶֿֿ¶³µ´¬‰‹–¢¡¢ ­¯¦¨¯³¸ֻוףט״ׁׂװßמ‏ÿÿÿףחלןםנעןףףעתץף‎תפתÿÿתחÞÚאץÿתכלפת‏ÿÿüק‎ÿÿÿüחװאûÿÿÿÿÿÿÿÿÿיײבüÿÿÿÿתשתÿÿÿÿצüÿÿÿÿÿÿÿÿצןל‎ÿÿÿÿÿüûÿÿÿÿÿÿÿÿÿÿüÿÿÿÿÿÿÿÿ‎üÿÿÿÿÿÿÿפכתÿÿÿÿÿÿÿÿÿÿûתÿÿצןקצÿÿÿÿÿÿÿÿתעןכנממעפשÿÿÿÿüÿÿÿקםםןפ‎ÿÿÿÿ‏‎קנםזחםןםהיûצעJHEEEFHIJECAAABCCBBCCBBDEFHIJKHEEHJLPTXXZ[_aglijljhiijpvutx~‰ˆˆ“™™¦·ֱ·°¯­¨¬®¬«´÷ֱֲ¶«§¨¥›„†–——–’’›§¨¬½ÙזÛּÊֿ׀״חשÿÿתמיםיזככמשצץûפעûצפûÿ‏נטÝ״חûÿצוזףקüÿÿצצÿÿÿÿÿם״בשÿÿÿÿÿÿÿÿÿוֿÞÿÿÿÿÿ‎פעÿÿÿÿצתÿÿÿÿÿÿÿüףמכÿÿÿÿÿ‏ûüÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿפ‎ÿÿÿÿÿÿקןצÿÿÿÿÿÿÿÿÿÿפצÿÿ‎ץתשÿÿÿÿÿÿÿÿקעץץצןלףצתÿÿÿÿףקÿÿüחגטן‎ÿÿÿÿÿ‏שףנםטיצציםתעלBAABDFHIFCAABBCEDBAABABBCCCCCCAADFFHJOPRQPRSVWX\\^^^^_bcccegmommouzvxz|}}…‹’”‘‹‹“’‘’“˜›“‹ˆ„~wsonmmpuz|xsssqv~††„¥±¯®±¼ֵֻ׃ßגזיטטג״Ýהלק‎ÿÿÿ‎מטהטףפףפניוןששףאבקÿÿÿÿקÿÿÿÿÿÿüטטקÿÿÿÿÿÿÿÿÿוֽײפÿ‏ÿÿÿÿקÿÿÿÿצצÿÿÿÿüש‏קםכצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿףנשÿÿÿÿÿÿ‏שÿÿÿÿÿÿÿÿÿÿצשÿÿÿÿ‏ÿÿÿÿÿÿÿÿ‏נףÿÿÿÿצענןשÿ‎יאגףÿÿלװ״טÿÿÿÿÿÿÿÿקףנטכשüץצףבב???CDFFHEBAAACDDB?BBBAACCCDDCBBBDFEFJMOOOMOQQQSVWXX[[[\^^^\_cfeehloopttuuzƒ†…„ƒ„†„…’ˆ|xsmjiihgimnnmjihgiqz{x’› ¦°¾ֵֹׁײÙוזב״ׁÛהן‎üÿÿÿÿלßÛהםעצקנכוטןתתזהûÿÿÿÿקÿÿÿÿÿÿüיחץÿÿÿÿÿÿÿÿתג׃װטצשÿÿÿÿ‎ÿÿÿÿצשÿÿÿÿûק‎קםםüÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ףמפ‏ÿÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿש‎ÿÿÿÿüÿÿÿÿÿÿÿÿ‎נןÿÿÿÿûלילצÿüטÝßנÿÿקÚײחÿÿÿÿÿÿÿÿצנלחלשתצקפÞג>ACDEEDDDCBA?BCB><>CDEEDCCDDDEDDHFDDHJLLJKJIIIKMOPPQRQRSQQQQSTTWXYZ[_aababegjmjighhigeeimmjgea\[\__^^__^^ZXVTSTX^`achlov‰˜¥¥§®¼ֱָָּֿׂװגיעÿÿÿüגָֻֿׁßץüןטגֽײמשקמעûÿÿ‎ש‎ÿÿÿÿÿÿףטיתÿÿ‏פםע‏ÿûןלמץÿÿÿÿÿÿÿÿÿÿ‎ץ‏ÿÿÿÿפןצףצÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿÿÿÿףגהןקüÿÿÿÿÿûÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿקעüÿÿÿÿצטוןÿÿûלזלÿÿÿÿץףצ‎ÿÿÿÿÿüףטההכפץפצקעל?BBDFDBCBA?>?AA><=ADDDDDCBEFEEEDEDDEIJKJHHHHIIMOMKLMOPOOMLLMOPRSSRVXYZZ[Z[`abb`_^\__\\\`cca^[YXWZ\ZZYYYWTRPOOOQSWZZ\_afnv„”™˜ ¯÷ֲָֹ»·ִ׳אטץÿÿÿחֳֵׁÊװפÿץאÞָֽ״טמםכןנץקקןףÿÿÿÿÿüטהןÿÿÿץזטתÿÿûקףצÿÿÿÿÿÿüÿÿÿÿקצÿÿÿÿüםףצץ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿû‏ÿÿÿÿÿÿÿÿÿÿÿצאÞןüÿÿÿÿÿÿתקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿתüÿÿÿÿÿÿ‏שש‏ÿÿÿüןחטûÿÿשכיעÿÿÿÿ‏צףÿÿÿÿÿüףחßבטמקץןקÿןםACDDB>AB?<<=>??>>BBBDBB?>BDEFECBBCEHIIFDCEEFHJMMKHFFHKJEEFHHJMOMLMOLLKJKPRSRPKIIHEFJLOPPQQPQQQQRVSOLKJFDCBBCDIIIJKKLOOPSYajpv‚”¦¥₪¢¦®»ֿוץÿ‎ל״ָ½»¾׳עכ׃ִ·³¬­µ¼ֹֹ¼÷ֱֿוגÝןÿÿÿÿשיםצüÿÿÿףזןקÿÿÿÿÿÿÿÿÿÿ‏ûÿÿÿÿÿ‏‎ÿÿÿÿÿץלןÿÿÿÿÿÿתןÿÿÿÿÿÿÿÿ‏ÿÿÿûץקÿÿÿÿÿ‎בÛןÿÿÿÿÿÿÿתפÿÿÿÿÿקןתÿÿÿÿÿÿÿÿÿשםûÿÿÿÿÿÿÿÿÿ‏תקףחזףÿÿÿÿûפקÿÿÿÿÿÿקףÿÿÿÿשכÛׂÞףÿ‎םזםקהגABCB?>?A>;;=>>?>?ACBABA>=AEEEEBBBCFHHFDABCDEFJMLJEEEFIHEDDFIKMMKJLLJHHIKMPOLIDCDCADILLLLLLLOOMMMRQOJIHDAA?>ADHIIHHHIKKLORY`flw†’™™ ¦±ֹבףשפגֵׂ÷³¶ֵ׀ֵ´¯¨“’™¨¨›¦÷׃ײ׳מÿÿÿתםחיעצÿÿÿüהגכûÿÿÿÿÿÿÿÿÿüש‎ÿÿÿÿÿü‏ÿÿÿÿ‏לל‏ÿÿÿÿÿץלÿÿÿÿÿÿÿÿÿ‎ÿÿשפקÿÿÿÿÿ‏יאלÿÿÿÿÿÿÿ‎צÿÿÿÿÿץמתÿÿÿÿÿÿÿÿÿûםצÿÿÿÿÿÿÿÿÿ‏קץמוחץÿÿÿÿÿû‎ÿÿÿÿÿÿקנûÿÿÿצחÝװÝפÿ‎טÞונאÝAAB=;<>=;:<?ABBBBCCCBA??ACEECA?AABCCBA=>BEFHJKJIDCCFFFFEEFJKLKIJKKJHFFILKHDA==>??BEJLLKHFIJIFDEIMOMKIFDB?>?BFIJKJIFFFHHFFIKQTZbjquzƒˆ±ֹאחÛָ»¯——„xpf_^fjmuphhbY^m~ֱÚÞ׃ּ׀ÞםüÿÿÿÿüחÝßףÿÿÿÿÿûמעשûעןץןמשÿתןנÿÿÿÿכטץÿÿÿÿÿÿשÿÿÿÿÿÿÿÿÿÿ‎תצןקÿÿÿÿÿÿÿûץüÿÿÿתÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎ÿÿÿÿÿÿצפÿÿÿÿ‎מףÿÿ‏ץץטÝוץÿÿÿÿÿÿÿÿÿÿÿÿÿףבבטמףעטÞÙבמצתםÙÛיההAA?<;=<;::=AAABBBABBB???CEFEC??AAAABB>=>CEFHJIFDBABDEFFFEFILMKIIKKIFFHJKIEC?<=?AABFLOLKHHIJFBADHKMLJHFECBA?BFJLMKJHHHFDCCEILQSW\fint{…”§÷ׁÚּ½¯“~vsfZZfhe[TWY[ac^ZY_s±´÷¼ֲ׃ßלשüÿÿעוßוק‏‎‏ÿüמבטעןהÞאÝגנפנילÿÿÿÿכהמÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿ‎ץףןקÿÿÿÿÿÿÿÿש‎ÿÿÿץ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿצÿÿÿÿÿÿüקÿÿÿÿûכןÿÿÿקפחÚבפÿÿÿ‏ÿÿÿÿÿÿÿÿתםÞÛאחףפכßÝזיעüתוßםייAA>=>=>>>?ABBBBB==?ACCCBBDC?>?BCCBAAAABCDFHFECABCDEFFHIHEEIKJHFFFDCCEHHDCAABBCFFFHLPOKHHHECBABCHMQLECDEDCDCFKLLKJJJIHC?=?CEFHEDHMTWX[al~˜‘‚scVOLPTh{_ME?8557:53//-0;JV_eq…›®½ֹּÊּßףûן׳׳גׂ¾µ´½÷µ¬¥¢§®®±´ֲÙßבלנמעםטץÿÿÿûשÿÿÿÿÿÿÿÿÿûפףצץÿÿÿÿÿÿÿÿ‎üÿÿשמûÿÿÿÿÿÿÿÿÿÿÿÿÿקחןÿÿÿÿÿÿ‏ÿÿÿÿÿןעÿÿÿüנה׃Ûףÿÿÿûת‏ÿÿÿÿÿץמחאÙװגצÿתמןףכמÿÿÿץתצצB?>=>A?>?ABBBBBA>>?>ACCBBAA>==ADDB>?A?ABDEEEB??ACEEFFHHFEEHIHFEEECA?BFFDB??BABEIHFJLLJFEECBABBCDJOMFBBEEDDDDHIKJHEDDD>;8;ADFECABHMQQQT[guƒ…‚wjYIFHMZnshWE80,)(((&!!!!(17>Lcq}…”₪­³ֲ׃בז׳ּÊ¾¯¥¦¨¬¬ –“›‹–«´¶ֲװונפםנÿÿÿÿץשÿÿÿÿÿÿÿÿתפעקתüÿÿÿÿÿÿÿÿüÿÿûמףÿÿÿÿÿÿÿÿÿÿÿÿÿ‎לטן‏ÿÿÿÿÿÿÿÿÿÿüצÿÿÿÿפחÚÚי‎ÿÿÿתק‎ÿÿÿÿצעלחהÞßמ‎‎פעפנלשÿÿÿ‏תשAA?BCBBCCAABAB?<==?BBA>=>??=>BDB==?BCCBBBBBA>?CFIHEEDEHHHHHEDB>=<<=?ABA?ABCCCHJIEHJKFEDBBEIHEDEFIID==CFECABCCCDA?>;8668>CFFCA?BEJJJHFFHKOPSSTM>6;HOQKA3& "/:FVgƒ™¨¢˜ƒzqqx§³­ƒiXLC>CJSat’°Þעף‏ÿÿ‏צנ‎ÿÿÿÿÿ‏ןלעקÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿצתÿÿÿÿÿÿÿÿÿÿÿÿÿÿףחאםÿÿÿÿÿÿÿÿÿÿÿûתÿÿ‏לזחזיצÿÿÿקןף‎ÿÿÿü‏ÿ‏üתםכתÿצםמקפכתÿÿ‏‎‏ÿAA?BBCBBB?AAAB?==?AA??==>????BC><<?BCCCBBCCBABDFHHEECDHIFEEDBA=;;<>AA??=?BDDDFIECEIHEDCACEHIEDDDFEA<=CHEBBBA?AA>>=:6678?DFFC??BEHIFDDFEFEDFIH?54<EOJ>1#
+						%,7L_w{usjc_`j…«¡…iSE=5016>K^p¸ײזףÿ‎פץצ‏ÿÿÿÿÿüכיץ‎ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ‎üÿÿÿÿÿÿÿÿÿÿÿÿÿÿצכאיÿÿÿÿÿÿÿÿÿÿÿשץÿÿ‎חוםלםץÿÿÿשכףÿÿÿÿÿÿÿÿ‏תףנûÿצםנשקןץÿÿÿüüÿ??>ADC>>?ACBAB???BCBAAABCCBBCC?<=>CFFEDCCEEDDEFHFDCBBHLJFAACDA<<>AABAAACFIIFDDDCFHFFDDCBDFDCCEEEDA==AEFEDEDB>>>?B?<::<AFKLHBACDDCCBABEE?;887.*07:4) 
+
+			
+").//03887;BE>5,# !.>Oe˜®½ָחÿÿÿÿÿÿÿÿקץÿÿÿÿÿÿÿÿûשÿÿÿÿÿÿÿÿÿÿÿÿÿ‏ÿÿÿÿÿÿÿÿÿüעםנÿÿÿÿÿ‏‎‏‏ÿüמל‏ÿÿףאמקקûשüÿשםףÿÿÿÿÿÿÿÿÿÿûûÿÿüטונצףף‎ÿÿ‎ןן>>>BCC>>ABCA?AAAACCAAAABCCBCDA?=<?DHHECCEEEEDEEFECBBCHKJEBBDDA>?ABBBAACEHIIFDEDDFIFEEDCCEDCABDDEDA>>CFFDCCC?<>?BCA=;<?CILLFBBCCBAA>ACED=:761))063( 
+		!#%&*3/*,**'"*7DVn¡¸״‎ÿÿ‏ûתÿÿשקÿÿÿÿÿÿÿÿüקÿÿÿÿÿÿÿÿÿÿÿÿÿתÿÿÿÿÿÿÿÿÿÿצףשÿÿÿÿÿüüתקûüממÿÿÿצגםû‏ÿתפץץןףüÿÿÿÿÿÿÿÿÿ‎û‏ÿûיגחננע‏ÿÿûכח><=BA>=ABA>==ACBBCCBBBDDDDCC?>==>DFIHFEEEEFFFEDDCBBBFLMJEBEFFDCCCDEDDDFIIHDBBCFKMKHEFFFFIIDAABCCBBCDHIIEB?>>?BEIHDABDDHKKHEDECBAA><>BB<51/,&%(*(
+	
+					
+			
+%:StֱÝםזÚ׳לÿÿתÿÿצûÿÿÿÿÿÿûÿÿÿÿשמםûÿÿÿÿש‏ÿÿÿÿÿÿÿ‎ûצקÿÿÿÿÿÿüץעןשÿÿÿÿÿÿÿםם‎ÿÿ‏לגכצץמץÿÿÿ‏שתÿÿÿÿûףיßÛגפ‎û‏ÿÿ‎זה;;=?><=AA>=<=ABBBDCBBBCCDCAA>==>ADFHFFEDCDEEDDDCCBACHLLICBCEFDCDDDEEEEHIHEBAACHKMKFEFHFHIIB>=?BBACEFHHFCA>>>ADHIFCCDDDHKIECBCA???<:=?>630-(#"&' 
+
+
+
+
+
+							
+
+
+
+			
+
+&8Tz˜¶׃׳׀׃לÿÿקÿÿüצÿÿÿÿÿÿץצÿÿ‎נזחüÿÿÿÿש‎ÿÿÿÿÿÿÿ‏ÿצקÿÿÿÿÿÿüףנפÿÿÿÿÿÿÿ‎םלûÿÿ‏מגזנעלעÿÿÿüץצ‎ÿÿÿתםאßהחץÿ‎ÿÿÿÿחז;;>=<=?A><<>BDCBBBBAAACA?????>ACEFIJKKHCBCDCDEDEEDDHLKFDAACEDDDCCEFFEHIHCACEEHKKIDBABCEFFA;:<?AABDFHFFEDBAABEJIECBDFHFHJFAACCABB?<<>=81.*'!
+		
+						
+
+
+
+(7Qu‘­׀ץÿÿûÿÿÿÿ‏ÿÿÿÿ‎חÞחףפכיןÿÿÿÿÿתעû‏ÿÿÿÿÿÿÿ‎תÿÿÿנץÿ‏ק‏ÿÿÿÿÿÿÿÿםוחףüÿÿüנהטששמצÿÿÿקת‎ÿÿÿףא׀Úשÿÿÿÿתצ‎ÿמל8;=<<=??=;<=ACA????>???A??????BCEEFJKIECABDDEEDCDCCHJHECBCDCCBCBBDEEEFHEBACFEFIIEDA?BCDDA<88<ABAACFHHEDCCB?AHKHC>?CDEFEEBABCBAB?<;<<<83-)%
+			
+	
+
+		
+
+&:WxֲזÿÿתüÿÿÿÿÿÿÿÿקהÝבנצםעûÿÿÿÿÿצנüÿÿÿÿÿü‏ÿÿ‎ÿÿÿםעÿÿ‎ÿÿÿÿÿÿÿÿûטזחןûÿÿ‏ציל‎ûןף‎ÿ‏ת‏‎ÿÿÿצחׂÙשÿÿÿÿתףץ‎םל=?BCA???==ACDEC?==<==>AACCCDDEEEFEHJIECBCDEFFEDDDBDIIIHHFFDDEECBDFHEFJHCCFJJIJIFEDBAABA?=;;>BCAADJLKID?AAAADHC=:8;=??=>>=?DDDA?<:<>A?:.%		
+		
+	
+%<Y}®װגלןק‏ÿÿÿÿÿÿכÙÛטÿÿÿÿÿÿÿÿÿÿ‏קÿÿÿÿÿÿתףÿÿÿÿÿÿםנÿÿÿÿÿÿÿÿÿתפלטנקמנשצûÿÿÿÿÿףץüשצÿÿÿÿÿÿÿףÛÙצÿÿÿÿÿנזמנפ>ABB?=>?=>ACEDB?=<<==>BCDCCCDEEEDDEHFBAABEFEEDDDBBDIKJJIFEBBCDBBDFFEHIFCCFJJIJHFCCA?A>>?>>>ABA>?DKLJEA>???AEF>8678<><8<<=?CCB?;8:;=>=6) 		
+
+
+
+	(=^†°ׂגיץûÿÿÿÿÿÿטÙÝמÿÿÿÿÿÿÿÿÿÿüק‏ÿÿÿÿÿûנ‏ÿÿÿÿ‏עץÿÿÿÿÿÿÿÿÿקםזופÿץעץנצÿÿÿÿÿףשüפפÿÿÿÿÿÿÿצßÚןÿÿÿÿÿץזטלפBDDA=ABAAACEFD>;>??ABDEEDCCCDEFDBBBBBCCCEHHHEEDECCHLLLIDC?>CFFDDEDDFIHEFHIHHJHC>>===<<>ACEDECA?CIID?;==<=>AB=6446<?>;:==;;=;7644560,%		
+
+
+
+
+
+	
+(>[w ÊחûÿÿÿÿÿÿחÚטתÿÿÿÿÿÿÿÿÿÿתץÿÿÿÿÿÿÿÿÿÿÿÿÿÿü‏ÿÿÿÿÿÿÿÿÿמבÙאÿÿÿÿםÛגüÿÿÿüץÿÿüש‎ÿÿÿÿÿÿקוÛהק‏ÿÿÿÿתיזקBCD?>ABA?BDEEB>=>?BCDDDCCCBBBDEDBBABCDCBCHHFFFFEDDHLLJFCA??DHFDDDCEHIFEFHFHHHD?===<;:<>ABDEECA>CFD?<:;::;<>>;646:=AA=<==:78741//0-'!
+		
+
+	
+
+"5Ka‚³ÝתÿüÿÿÿÿטÚיÿÿÿÿÿץשÿÿÿÿקץÿÿÿÿÿÿÿÿÿÿÿÿששקÿÿÿÿÿÿÿÿÿÿלגÛגÿÿÿÿם׳Úקÿÿÿ‎ץÿÿÿ‎ÿûÿÿÿÿÿצהÚבש‏ÿÿÿÿÿםגפBB?=>BA?ADHFB?>?BBBDEEECA?BCEFECAAACEECEIKIHFHJHEFHHFDBBACEJKFB?ABDFDCEEDBBDC><<>?=;;>ABEHIEA>BDB<778877:<=<;;88<?CA=<;5.*)('''&#
+
+
+	
+*>Sq§חÿÿû‏ÿÿץבםÿÿÿ‏קיחתÿÿשטנÿÿÿÿÿÿÿÿÿÿשנלחיÿÿÿÿÿÿÿÿ‏צםעûüÿÿÿÿעÞÞקÿÿÿקףÿÿÿÿÿשעÿÿÿÿקÞ׃״ן‎‎ÿÿÿÿנאכAA><>A?>BEFC>>?AAABBDDDBAACCEFEC?>?CEBBDIJFFFIIFEEHIEBBCDDHLIC?>?BCCBABBAAABA===??>=;>BCFJHDA>BC?;77:867:<<<;;88<??=8871*&##"!#% 			
+	
+
+		
+%6Ha“Ýÿÿתüÿÿקהםÿÿÿ‏קנכתÿÿעÞכÿÿÿÿÿÿÿÿÿÿשנחוםÿÿÿÿÿÿÿÿצןלפÿÿÿÿÿÿמוח‎ÿÿÿףנ‏ÿÿÿÿתמÿÿÿÿפÚׂ׃חש‏ÿÿÿÿמßטAA==A??ACEC?>?AABBBBDDCBABDEEDCA?>AEFEEIKHEEFFEDCDEFEDEFEFHFB>?ABCBCCBBBCBACA?ABB?>>ACEHJIFB=<?A>;<>?=;;=ACA?=::<;;61,%
+	
+
+
+		
+			
+
+		
+
+
+%;g®צÿÿץÿÿÿפמÿÿÿÿÿÿ‎ÿÿÿןÞגקÿÿÿÿÿÿÿÿÿüנכןûÿÿÿÿÿÿÿÿמחכץÿÿÿÿÿפלצÿÿÿÿ‎למצ‏ÿÿÿÿןקÿÿ‏כװ׀׀Úץÿÿÿÿüלאכ??>>??ADDDBA?AAA?ABCDCBAAACDDCBA>>BFFFFJIECDEDABCDEEEDDEEEEB?=?BBCBDDBBBCBBBAAACCA>>BFHFIHC=:;>?=;<=?>;;>BCB?<8:;;73,#						
+
+
+
+
+		
+	
+
+
+1Yכÿ‏ןצÿÿשנÿÿÿÿÿÿÿ‏ÿ‏לÝßעÿÿÿÿÿÿÿÿÿ‏ףעשÿÿÿÿÿÿÿÿÿנטכשÿÿÿÿÿץמתÿÿÿÿüעמפüÿÿÿÿעע‎ÿפב׃ׂׂßüÿÿÿÿûןזנA??BBACFFBBA?ABAACCEEDBBBDDDCBA??BEFEHHIHECCCCDDDDFEEFFEDBA??ACBCDDFHFFHHEDCDEEDCAABDEFED?:8:<>=<;<AA=;<>ABA<75763,!
+			
+
+	
+
+				6l´גה״חÿÿÿקÿÿÿÿÿÿÿÿüנחבÛו‏ÿÿ‏ףÿÿÿÿÿצצÿÿÿÿÿÿÿÿÿÿתעץÿÿÿÿÿÿÿ‎ÿÿÿÿÿתקףפûÿÿÿÿüבÝגגÞ״Þטשÿÿÿÿשמעשÿ?AAA?ADFDA?==?AACBDFFCCABCCCA?A?ADEEDFHIHCCBCCCDDDFEDFEDCB???BBBCDEHIHIIFECDEEDCCA?ADEEDA<::;<>=;;=?><;;>AA>;6564.&
+
+			
+	
+,Xׂ״ׂזÿÿÿתÿÿÿüÿÿÿÿשיגבÚבûÿÿ‎נÿÿÿÿ‏צץÿÿÿÿÿÿÿÿÿÿתץקÿÿÿÿÿÿÿÿÿÿÿÿ‎ץצץצûÿÿÿÿתÛײßßאÞÝכÿÿÿÿÿףוישÿBCCB?CHFC?=<=?ACDEFHDCCCDDDDCCDEFFEEFHJIFEDDDEFFEEDDHJIDCBCCCDDEHIJMLKLKFDEFHC??A??BDDC?=<===<=<<=?ABB?==>?>7643/&				
+
+
+
+
+-Vˆ¯Êםÿÿÿ‎ÿÿÿ‎üÿÿüםטכעםופÿÿקשÿÿÿÿ‏ץץÿÿÿÿÿÿÿÿÿÿ‎‎ÿÿÿÿÿÿÿÿÿÿÿÿצלחנûÿÿקשÿÿעÙ׳הינןביÿÿÿÿקאײבעÿBBB?>BFFB=<;=AACEFFFDBBDDFFECCFFFDDEEFFHECCCCEHHECCEHJHCBCBCCEEHIJKLLKJIFDDFFA=>???BCC?<<=>=;<<<;=>ACB=;;==;8541-#
+
+	
+
+
+
+
+">jֳמÿÿÿ‎ÿÿÿÿü‎ÿץחלפüףזןÿÿפûÿÿÿÿ‏עץÿÿÿ‏‏ÿÿÿÿÿüüÿÿÿÿÿÿÿÿÿÿÿÿןוהכקÿÿשף‎ÿנÞÞללפץוו‏ÿÿÿןÝװÝםÿDC?>?DFEA=<=ACEFIFFEDEDCEHIEEFHEBBBDFEDDDDA?CFECBCEJMKFEFFFEIJJKHFHHEDEDCBCCA=>BDEEBA?===??=<<<=>AABC>:87::641/,!
+
+
+				
+
+
+
+	
+3\–ׁ‎ÿ‏ûÿÿÿÿûעםוÞלÿÿÿממ‎תתÿÿÿÿÿצזןÿÿ‎קÿÿÿÿüעפûüÿÿתשÿÿÿÿÿÿקיהײÙפÿÿüעצשץףתÿÿÿ‏םגףÿÿפגÚ׃״כÿB?>=?DDB?<<>BCEHHEDDEEDDEHFEDEFD??BDDBABDBA?CDDCBBFKLKHFHEDFHIJIEDCDDBAA??AB?<>CFHECA??====>>====?BBA=768;:63/,&
+
+
+					
+
+
+
+
+			(H|½ן‏ûשûשÿÿקמכחßמÿÿÿץף‏ûÿÿ‏‎ÿÿצזןÿÿÿüÿÿÿÿ‎נפ‎ששתפץÿÿÿÿÿÿץליÚÙנÿÿתנץצצצÿÿÿ‏ûיÝםÿÿםאÚ׳Úםÿ=<<>?CDB>=>AABEHEDDEECBADEBBCCB=<?DDCBCDECABDECBCFKMLJFFCBCEIIEDAABCBA?==>?AB?AFIHEBBCB>==ABBBABCCCB?;78;<<:5-#			
+
+
+		
+
+	
+
+
+	#At¬׳לןעכשÿפטנÿÿüÿÿÿÿתקÿÿÿ‎לעÿÿנפÿÿÿ‎ÿÿÿ‎םףÿÿ‎פÿÿÿÿÿÿÿÿÿÿתףזÚאûÿעאהם‏ÿÿÿÿÿתיײÛעשיßחנלםÿ<<<=ABB><<=??AEFDDEFEB??CDA?AA?==AEECBCEEDCDECBBDFKLJFDEBACEJIDCAACCCA?>?>ADDBBEHFDBBCB=;=ACCBAADDDDA<88<<;:6, 
+	
+
+				
+	
+
+		4^—ֽטיטזץüןזףÿÿ‏ÿÿÿÿûץÿÿÿÿמןÿÿפץÿÿÿüÿÿÿציצÿÿÿקÿÿÿÿÿÿÿÿÿÿüנגÙאתÿמÙÞכÿÿÿÿÿÿûל׳״לתםבלתצםÿ>==ABB?=>?AAABEFEEFEB?=>ABAABBA?BEFDEHHHHHFFEEEFHKLIEBA>=BEILJECDFHIHDCDCCDEC>>BEC?===<:;>ABA>ACDEDA=:8;>AA<1&	
+			
+
+
+		
+5_ֶװÛÝהחוגצÿÿÿ‏ÿÿÿüן‎ÿÿÿץעÿÿ‎ÿÿÿÿתנתÿןםÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿüטÙ׃ßüÿצÞÞל‏ÿÿÿÿÿÿץהÛמÿקמפüץץÿ>>?BBA>>?AA?ABEFFEFD?<<<>AAABBBBDFECEHHFIIHHEDEFIJLJEBA??BFJLJDCCHHHFEDDCCED?<=BCA=;;<;;;=A?=<?BCDB>:77:>AA;.!
+			
+
+	.Q†¸ֽ׃״בגßבקÿÿÿÿü‎ÿüע‏ÿÿÿץע‏‎שÿÿÿÿ‎פש‎צץÿÿÿÿ‏ÿÿÿÿÿÿ‏ÿÿÿüכÚ׃א‎ÿüזבםüÿÿÿÿÿÿפזßם‎ץןקûצתÿACCBAABCCBBBBBCEFHFC>=>>?BCDEFFEFFDEHHFFIIECDFFFHJKJFDCBCDHIFC>>CEEDBAA>??A>;:<?B?<;<=>>>>?>>>><=A?<877<?=7- 
+								
+3V†°ֱָ׃״ßיûÿÿÿתםלפûÿÿÿÿÿפשÿקכףÿÿÿÿÿÿÿ‏‏ÿÿÿשמשÿÿתמזלשÿÿÿפגאןÿÿÿÿÿÿתלזנûתיהלמנשןכק‏צתÿBCBA>>BCCBBAABCEFIEB><=>ABBDFFEDEEDEFFEFHDCBBEFFFFJJIEDDDDHHE?>?BCCB?>===>?=<<=AB?<:=>>>>>???>=<=?A=:7:==:3)
+	
+
+			
+
+
+'Dpµֳׁ׳אכשÿÿÿץיטףûÿÿÿÿתעצ‎ףהלÿÿÿÿÿÿÿ‏‎ÿÿÿניעûתעהßטûÿÿÿתחזץÿÿÿÿÿÿקיזמקףßÛםקקשלחצüצצÿBA>=ACEDAAABBCDEIHD?>?ACBCFHIHEDCEIHHEEDDAABDEEEFHLLIHHEDHHFDBAAAAA?>=>???AA?ADEECA?CCBA?ACCBA?==>?>;<=<61,
+
+			
+
+		
+":\ƒ±ֿ׃וןעשצככשÿשקÿÿÿÿ‎עיףץנכעÿÿÿÿÿÿשננצשןגחןילםטןÿÿÿÿÿשןץ‎ÿÿÿÿÿשקתתץח׃ׁמÿÿÿנטלת‎ץÿ?==>BDCB??>?BCEEHFB?>?BCBCEHFFDCBEFEFFDCBABCDEEEEHKLJFEDDFEFEBABAAAB?>?????ABCDFFD?ACDB?>ABDCA><===<::;84/(
+		
+
+	
+
+	
+-Ho₪ֻװבםפüנהטÿÿÿק‎ÿÿÿ‎םחעצצננÿÿÿÿÿÿשלטמץנוחמכמפנצÿÿÿÿÿתלןקÿÿÿÿ‎ץקÿÿתיװׂלÿÿÿקלטצ‏קÿA??DFDA?>>ACCCCEFFDBBCBCCBEDCDCCDDFFEFEDCCDFFFFFFHKHFECDDDEEDA>>?ACCAABCABBBCCCBB?>>?BBAABCDCA?=>==<;;:61/'	
+
+
+		
+
+.J¼ׂÛכת‎כזקÿÿÿקףüÿÿשעףתü‏ÿÿÿÿÿÿÿÿלÙ׃בצÿקצÿÿÿÿÿשקÿÿÿÿנוינעק‎‏‎ÿÿÿÿûחולע‎ÿÿÿןהנü‏A?AEFD?=>ABCCAAEEDBBCCBBACDCBCBBEEFFEEECBCEEFFHFHKJHDEEDCCCAA=<=>ABA?ACB?BBCCB?>==;<>BAACDDDC???><;;::741*	
+
+ /M„¶ֻ״עÿףאמÿÿÿÿפנ‏ÿÿףץüÿÿÿÿÿÿÿÿÿÿשÞ׀װחüÿüתÿÿÿÿ‎עץÿÿÿצטהםעןשÿ‎ÿÿÿÿÿמÞלקשÿÿÿקטזץתÿAADFC?>AABCBAACEDBCDCBAABCBBDDDFIJJIHIFECDEEFEFHIIJIEDDC?>>>>=<>>?BCCBB>?BDCA?<;=AABEFEEFDDECCCB><;<;=<5/%		
+
+		
+
+&Cu§ֶבטÞבתÿÿÿÿÿקüÿûûÿÿÿÿÿÿÿü‎ÿÿÿנזהאנÿÿקןÿÿÿ‏ץמכפÿÿעםמנןםû‎ק‏ÿÿÿÿןגםצןפצענמםמן‏?CED?=>?BBB??ABDBABCCAAABBACDDDFHIIFHIFCCCBCFFHHHHHHECCA=<=>>>>=??CECC?=?ABCA><<ACCEFHEDDCDCBACA<;:;<=:3*				
+
+			
+
+!7a™ֱÙבÙא‏ÿÿÿÿÿü‎‏צתÿÿÿÿÿÿÿעצÿÿÿןככטפÿ‏ןכüÿÿûןןןץ‏‎פעץעןעûûעשÿÿÿÿןאילחמםיםנםיי‏?BDA>?BBAAA?>ABAACFDBBCDCBBDEHHHHHEEHFCCAACEEHHFHHHE?>A>=>CEDA>?BEHIFB>=>>A?<88=CDCDFDAA?>>=;8::8668::4* 	
+
+	
+
+			
+
+!8f¡ֽÝÚבÿÿÿÿÿÿשףפעףÿÿÿÿÿÿûהזץ‏ץע‎ÿÿÿÿûטזקÿÿץכצüשûÿÿÿüץשûקעחזקÿÿüלÝÙ״במחÛהפעיזעBBC?>AB???A??BBAACEDACEDCBCEHIIHFECDFEBCABCDHIIHFHFB>>AA>?CEDA=?CEHFEB=<<>?>857=DCBCEC??>=<;86876677773)
+						.S’ָÞßותÿ‏ÿÿüןכנננ‏ÿÿÿÿÿשאאמצנףÿÿÿÿÿתלםשÿÿצלפüשק‏ÿÿ‏קשûצנלחפ‏‏קיÙײ״במיÞזצףחוםDB??BDBAAAAABABABDFDDEEDBACFIIHECCDEEBBB?AEFHHFDCDB?>?BBBDEDB?ADFFFDA==<?>>=:8;?BA?BC=<=:76545778777:80"	
+
+	
+
+				
+
+/[›׃מלןףםנשםÚÛטש‏ÿÿÿשÿÿÿםÝÞלע‎ÿÿÿתפשצÿÿÿÿשללצששÿÿÿÿ‏‏ûעןףץצצצץט׳״לפצתקתÿûלויC??ADECBAAABBBBACDEECDEECAADFIFCCCCEECBBAAEFEFFECCCA?>ABCCEDA>>CFFECB>>=?AA=;::=ABABB>;<;7545578:8767:3'	
+
+
+			
+
+%>l§׃חכעןיףפב״געÿÿÿÿüתÿÿüיßזלץÿÿÿÿפצתÿÿÿüשןכףץףûÿÿÿÿ‎üצללעצצצקנב״הצ‏‎ûÿÿÿפחב>>BDDDCBBABCDCCCEFHFDCC?>ABDCDDCDIJIDCCCCFFEFHFDDFHECDFIFEDDBBEFECBCDCBA?>??>==?BCB?<;;;87:::;<==;7684(		
+
+.V˜׀אטלאיתנאבףÿÿÿÿקםץÿÿÿפבÞכÿÿÿÿףף‎‏ÿÿמףתשצמהףÿÿÿ‏נןעוÛהטןüÿ‏וװהÿÿÿÿÿÿשלבÞן==BCBBABBAACDBCCCHHFDB??>?BBBBDEHJJIDBCCEEECEFEDEFFCCEHFEDCCBCDEDBACECA>>=>>>==>BBC?;88:87::8:<=<<8774(		
+	
+
+
+(I†ֱÛזיßזפמגטשÿÿÿÿקכפÿÿÿשהÙוÿÿÿÿפפü‎ÿשטנ‎‎תכאןÿÿÿתללםהÙÛßלûÿÿגׁוÿÿÿÿÿûמהאßפ=ACBBBBAB?ADEEDBCHHFDBBBBBCBCEJLMMJEBBBDFFEFHFHFFFDBCEHFBBBDCBCCA?ABB?>??=>???AABBA<;:888:===>>==<7770"
+
+
+	
+
+			
+	 0Z”ֲ״Û׳״ÝÝהקÿÿÿÿÿתתÿÿÿÿûהײßעÿÿÿתüÿ‏üנגחשÿתה׃אÿÿÿפטןפחßÛ׳זüÿÿאֿאÿÿÿÿÿנÛ׃Ýזת=ACA?A>?A>ADDDCACHHEDCBBABBABEJLMKHCABCEDEDFFFDDDDCABDFC?ACDCBCBA>>AB?=>?>=>?>AAA>><;8::;;===>==<:455-	
+
+				
+
+
+
+
+
+
+	!.M‰¼ײßײ׳Ù׳ותÿÿÿÿתÿÿÿÿÿÿצב׳Þםÿÿÿü‏ÿÿתמההנתץבֽ״קÿÿפיץתטבאÙז‎ÿÿוֿÞ‎ÿÿÿÿן״ׁÝט‎ADB>=>=?CBDEDBAAEFEBCCDDEECCDHLLIECBAADFEEHJHECDECABCEC?=CFEDBCEEBABCBBA?><=?ABA===<>?AAABDED>877531.#
+	
+
+	
+
+"6g¥ֿחמיßײÞמשüץנץÿÿÿÿÿÿל׳ׂ׳גüÿÿûû‎üתצמÞÙחןטײ׀כתûץעÿÿצמלטמקÿÿקÞהתÿ‏ûתלÙׁ׳כÿCDA=<<>ACCDDCA>ADEBCCCCDDCABCFJIECBBABDEEFHHEAACDCBBBDC>>CHHCBCDCB?BCCBBA><=>ABA?==>?ACBACDFC<766541* 			
+	
+		
+	
+.X“ֶיץנו״Ûחצתנכנÿÿÿÿÿÿיײֿׂאצÿÿüü‎תתשמÝײהןםÚׁחצקףעÿÿûעםכעצ‏ÿÿיכû‏קפץיÙׁ״עÿBA=<=>BEDCBBBAACCAACDDDEC??ACFFEAADCACDDEEFFBBFHHEBABB>?DFHEBACECABEDCCB><=?ADEDBA=ACCCBADCB=65678:4)			
+
+
+
+
+
+
+			
+	
+		
+	.X—ײקשכאÚÚחףףטחשÿÿ‏ÿÿמװִֹׂÝעÿÿÿüץק‎קגׂÞףûמÞביליוףÿÿצכיעתÿÿÿ‏ק‎‎םÞÝגכזג‏ÿA?<<=?CECCBABBBCCAABDCDDA>>BCEFDABECBCDFFDDDAAEIFEBABA??CFFCABBCB?ACCBBA<<=>BEFDB?>ADDA==A?>:5688;;4(		
+
+
+
+		
+	
+			
+	
+%EֹףקםוÛÚטפצלהץÿÿ‎ÿÿנװֲֹ׃Ûמÿÿÿüצק‏üט׳Þף‎ץהßבחהÞםüÿתכזעתÿÿÿÿקüüכÙײבפנח‎ÿABBAABDDA?AACECBAABCBBBB==?CEFHFDFFFFFEFIDCCBDIJECBAABABDCBABACCA?AAABA>?AABDEB>;:=AA=<::88865;<<==5)	
+	
+		
+		
+		
+#F‰Êטנעו׳גףתמחףÿÿÿüÿץאװÛוßחûÿÿ‏ץץ‏ÿüנטנ‎ÿ‎ז״Ýהßבןü‎יו‎ÿÿÿÿÿץצûי׃ּß‎ÿץףÿABCBABBBAA?BCECBABBBAABA==ADFHFFEEFFFEFHIECCCEKJFDAAA??BDBAA??BBAABAACB?>ABBBCA;8:=??=;8777757<<<=<4*
+	
+
+				
+;s¸זפצח׳Þכףםחףÿÿÿ‏‎קטÝטמהחקÿÿשעף‎ÿÿקמף‏ÿÿי״Ýהגהןûתיטÿÿÿÿÿ‏ענצח׃ּÞûÿצמ‎EDCAAABCBBCEFFCBCBBAACEDDCCDHIHFEFFFFFEFEBCEFJLJFBBCA>>BDDCA??CCBBBABCAA?ABAA><:;=BDD?;:8:8:<==<=>:3*	 !""&&&%" 
+					
+%I׳üÿץ׳ָּ׳גיתÿÿÿÿ‏שכט‏ÿקכלפףםםןתÿÿÿüקûÿ‎נהחץ‏‏צףץמעÿÿÿ‎קץלגואײֿׂוןכÞחEDA???CCBBBEHEDBBCA?BEEEDCCEFHFEFHEFEEEDBCCEHJKJDAABA>?BDDB???CDBABBAA??>?A??><:<>CED=:888:<<=<;=>:3*		
+ "%%&'),)'#!
+			
+ >~Êשÿץ״ִֵ׃במûÿÿÿÿÿץיט‎ÿצןנפףםןןץÿÿÿüצש‎‎ףחלשÿÿתממלץÿÿÿקנןיבßÛײ׀ּÚחוÙאDB?>?ADCBABCEEBCDA?BFHIIFEDDHHEDEFEEHHFBACEFFHEA?ABBAABDEC??EHFDB??A=<<<<<<>AAA??BDEB<8:;<>?><;>A>81)	
+
+	
+"&'()*--.//-(" !#&"		
+&K“װןנבֹּ״נüÿÿÿÿÿûטÛאעתצûüüשעפנןת‎תשקûצפתצשÿÿÿקגבחנÿÿÿטזםלגÝאזאֽֽÙß׳ÚBA?>>ACBB??CDCCCCB?CHIHFFDCCEFDBEDDDHJEBBDFEDED??BBB?ACCDA=?EHHD?>>><<<<=<;=??>A?ACD?;7:;<>>=:8<A>81)			
+"&'')***-.//.)%  "&)& 
+
+	 ?}ִזלז׃ֽÝצÿÿÿÿÿÿקה׳Ùכפףתü‎üץצןכעץפששûץןתשûÿÿÿץאßגכÿÿûחהםןזבכעטֻׂװגÛÛBAA?>ACBBBCDFEFEDBBEHFEDBBABDECCDCBDHHEBBDDBBBA??CC?>BC?>=?DJJEBA?>=>>>>=<;=>>>>==AB=88=?ACDA>=?B>70(						 "%'()*,,***.011.)#"&*//*#
+
+,W ßקשםßיÿÿÿÿÿÿתיÞײׂבפûÿÿÿÿ‏תןהßßטןםממצÿÿ‏תשצטגב׳װוםיהחןןןץÿÿשגֿׁÛאןAA?>>ACDCCCEDEEDCABEFDCCA>?ABCCDDCBCHHDA?CCBCA??BCB>>BA=<=BFJICAA?=>==??><;=>>><;<?A=77=?BDDB><>A=6.(						!"%(()*,,**,.0130-'#',/1.' 							
+'M–Ûת‎נאםÿÿÿÿÿüפוÝ״״וצ‏‏‏‏‏‎üנגÚÙהןלחמתÿÿ‏צפעטוא׃ֿÛזזגחםםנתÿÿקו׳ׁÙßצBA??BDEEFFEEEEDAAACDCBBBA>ABBBDDDDBDEDB>>BCCEECBCCA=?A?=<?CFIEA>=<<=>ABA=;;=?A><;=A?;8;?CDDCB=;;;:51/"
+	 "%&((),-./01356785/)(-0341,%
+
+		
+
+	
+
+
+ =~ֹצÿתטמÿÿÿÿתחוÞÙ״ßנ‏ÿ‎üתףפתףהײֿÙחכטנ‎ûשצםמצעםו׃ֵֽÙÚÚוטחץÿÿ‏לוב׳׃אÿCAAACDEDFHFDCCC??ABA?BBA?ABBCDDEFEDDEEBAAACDDCBBDC?>??>>=?DFFEA>=<;<=AB><:;=AA><:<BA;7<ACB?A>;88:7743%				
+ #%''(,--.013568::73,(,1344/'			
+
+
+		
+
+	;wֱנÿûכםÿÿÿÿעההÝÙ׳Þף‏ÿÿüשנמצנא׃ֻׂהכטנתשקףטמקףםח״Êֽ״״ÙטכזפÿÿüטבהÚ׃אÿBAACEEEEFFDDCCA???AAAAABCCEEFHEFHFDDFFECCDEEECBBBA?A?ABBBABEEC?<<<:=?A=:8:>CDA;;:=A?;8=BA;;=<86:<=?=:(				
+		
+!%(((*-.0335766;<=<70,*.34640,#			
+
+
+
+
+
+		1a§ׂולזאןÿÿץ״װÝהגÙÝצÿÿÿÿקיÝאטßׂÊÊÝןעקüשûףכפÿתוטכÞ׳ײװÝנצןלתÿץגופנוג‎BAADFEEEFECDECA>?AAABBBBDEEFFFDFHFDCEHFEDEFEDBAAB????ACCBBCEEC=;;;;<>A<78;>DD>;;;=?>;;?B=88<<77:;=>=7%
+
+						 "%'(),-.0356767;==<83.,.156650(  
+			
+
+
+
+
+
+
+	
+0_¡ÊÚוגÛטÿÿן׳ׂÝחחÞבשÿÿÿÿשט״ÞיÞֽֿׁאףץת‎ü‎ץמקÿûויעטÞװׂßעקפכץ‎נגטüשלוצAABDCBBFHDBBDCA?ACCDDCCCEEEHFCBCDDBDFHHFFIIFEBABBBBDCCEDBBDEDA==>>>ACB>=<=BFD><==?CCAAB>:8=A=8:==>=81!
+
+		
+		!%')),./0147888;=?AA?<60/158<=<6-%!!#! 				
+
+	
+
+
+/W“¸ִׂאאמÿÿכײׁחעזזןצÿÿÿÿשלßÞיÝװ״ÙהעששתÿÿÿתקüתגßטםחÙ׳אןÿÿזגףלהנÿÿ‎מט?ABCBABCDB>BBBA?ACCCCBBCDDEFEBABCBBDEFFEHIHEB?AAABBACBBCAABCBA==>>>CDC><<>CEB====?ADDBA<::>A=::>=<:5.				
+					 "%')*-//03578::;>ABA?>:3/05;>>>:1(##%#"  
+	
+	
+
+1Z–¸ֲׁגועÿÿחֿׁזףזטנןשÿÿÿüמובוÝ״ÛÙבןקתשÿÿ‎üקתתג״בםמאÞום‎‎זאםיהןÿÿ‏מז>?BBBABCA<;=?AACEECCCCDFEEHHDA?BDEEEFEEFHHEA=<=?CCBCCAABCBBBBAAAAADHEB>=>ADECCAABDHJID?<;>??<;==<;3(
+
+			
+	
+ !#%')),./1457:;;<>ABCCBBA<6348BDDB=4*#"&('%'&
+
+
+		
+
+
+
+!;j¼ֲֿלקÿÿÿÞָֽבמטיםומÿÿÿ‎עףנטוגÚײÞמתנלפששûÿÿ‎ו׀ÙמץעמןעץץזÝהזיזןצנבÝ>?ABAAAA>:;=>ABDEDCCCBDECDFFCAABDFDEEEDFHEB>;<>ADDBCBAACCBAABAAAA?CEEA>==ACEDDCBCDHIHC>:;=??==?><:1%
+							!!##'(*,.00468;:<=>ACCEFDC?:43:BEHD=6-%"%(((()%
+
+	
+
+
+
+!>p₪¿ִ׀לüÿÿÿÞָֽבעמםןכן‏ÿÿשמףנלחבÙ׳בןץםיעפצûÿÿÿח׀״םעןנעקשףזÞßטםזכפןßÛ?ABBAAA><<=>BCDEDBAACDDEDHJFCBCEFFCDCCEFFB><<<?CEDCCBBCEDBBCBAABABCCB>==?CFHFDA>ACCBA>=;:<>??CCA=81&
+	
+
+		 !"#&'(*,./0457:=?BCDCDFFIJIFB;57?FFFC;50)%',--/.&		
+
+
+
+			
+"Aw°ֹּײףÿÿÿÿגׁ׀Ùטצ‎ÿ‏ûÿÿÿלוןעצץכוהיצעגזמץÿÿÿÿ‎ל״ֻװÝÞטתÿÿןבבזצשטטףפוב?AA???A?=<<>ABCDBB??CEEDDHHEBBCDEEDCDDEFD?<<<<>CEDCCBACEDCCDB??AAABCB?==ADFEDB?=>AA?=<<:::<=ACD?:71'	
+
+	
+
+
+
+	 "#%'()*-/01468;<?BDEDDEHJJJIE=77>FHED=84,&&)*,01)
+	
+
+
+	
+				!>w±ֻ׀Ùצÿÿÿÿט״ײ״געÿÿÿûÿÿÿכהמף‎ûמלזטתףאאטקÿÿÿÿüןÝֽׂ׳ÙושÿÿןבביץקיחפקזהAAAAABA???>?BBABBAAABCCDEHHDBCCCEFHHFFEFD>;==>CDCB??AADEDABB>=>AABCDC>;=ADEBA?><<<<=>>;878;=CDA;774.%				!"#&()*-//133568=?ACEFEFHJLMLLJE>8:>CDDC=:4/)(),.34)!!
+								
+
+	
+		6oµֽֿÞÿÿÿÿÿקםא׳ßלÿÿ‏ללüÿןÝאעÿÿÿ‎ףזעףÚװוûÿÿÿüתפגײװÙÙאף‎תיÞגיןץףלףÿûû??>?ABA??>>?ABBBBBBABBBCEFFECCCDFHIHEEFEB=;=>?DEC?>=>CDEBAA><<>?ABCDC=;;ACCB??<<=<;<=<:888:>CD>:874.&				 #%'(*,./0146778<?BCEDDFHJMPMKJF?:8>CDEC>:73,((*-15-  !%&#		
+			
+
+	
+	
+
+
+		3h®ֻּßÿÿÿÿÿûנזÛÝי‎ÿûההקÿנÚÛנÿÿÿ‏עזןןÛׁבûÿÿÿשקפזÚÙÞßגמקףזÝÞהםעפןעÿÿÿ??AAACA=>==?CEFEDBABCEEECEHFEEEEHKMKEDCAA?>BDFFD?>>?ACFEB?>==??CEFEC>:;=?ABBBA??B?<<<<<<;:=ABEB>=:51-
+	"&((*-/000347768;>AACFHHIJLLLLKID?;=ADFFC=::6/)(*.33)"#(-1*!
+
+			
+
+
+
+
+
+		
+&K»Êגüÿÿÿÿעיםכומû‎מÚÚםÿüÞ׳ץÿÿÿתלובßÛ״הüÿÿפמששנכמפמזגוובÞÚÝגעÿÿפפûÿ>?AABC?<===ACEEDCBBCDEECCEHFFEEEIKKIDB???>?CEFEA><=>ACECA>=>>?ACEEDA;8:<>AABCBABC>;<<<==:;=ADEB><831-
+	#&()*.001134676:;=?ADFFHIJLLLLJIDA=;>BDEC><;71,)(*03,##'-41&			
+		
+
+
+
+
+	
+!B~¯ֵÝץÿÿÿûמטללוםקתלÚÝןÿûÞ״פÿÿ‏קחבÝÝßßטüÿÿכחץתצףפקןאÝÞאבßÛאוףÿÿנכע‎ABBAAA=<>>ABCFFEA?BCEHHEBCEFECCDDEIHDA>=?ABFHHC><<>BCDEDA==ACCDDEEB=<;:=>ABCDBAAA>::<=??<<?BB?=861./,!	"&()-////0345578:;=>ADEEHHIJKJJHDCCA=<?BDB?<;;60-)(*,*&!%*01,#
+
+
+
+					
+
+
+&Cg±Ùצÿ‎ףבÝכפפיילטהגל‏ÿמבנÿüץעםטÛײאםûÿÿפהÚחתÿÿתקמÛֽÊװגזטןפתÿÿמאÝהAAB?>>=;=>?BEFDA==BDFJHBBCDCBBBBCEHEA=<?BCDFFD><<>ABDCCB=<?BCCCEEB==;<=>?ABCCB>A?:8<;>?=;=AA=;861.,*#	 #')-/00/01355668:<??CEEFHIIJKIIFDDC?<=ACHD=:;:61,(&*.*!!&,75*!				
+	
+
+"=h“ֵםÿ‏קטÙהשתטאזכחאהתÿ‏גגץüקץףמבװÛטûÿ‎שכÙÝףÿÿתפןßֶּֽגםמףש‏ÿÿמÛ׳Ùל>?B?>>>>?ABCEEB>=ACDHHC?>ABA????BCC?>>ABDDCCC?<<>CEHFDCA>ACEFDBBBA>>AAAABBDEDB??=:8:<=:7;>=:766553.&	
+!#'),00////145656:=?ABCCDEFHJIIJIHHIHB=;<ACA;:8774/)&&*#%(-4/(!
+
+
+	
+	
+5_₪ÙעûשיÝיÿÿםײÚזמטלÿÿÿזÚאןףלןשןבהחף‏‎צכוונüתפיÙֻּֽׁזשת‎ÿÿÿûח׃ֿ׀ה>>??>>>??AACEEB==ACEFDA==>?>>A?>ACB?>?ABCCCCCA==?CEHEDB???DDDCAAAA>?A?A?BBDFEBAA=:8;<<:8<>=86557740'	"#&(,/0/...144557:<>ACDDDEFHIHHHIIIJIF?::>CB=877751-'%'##&*10*#		
+		,Q“ֿמÿüמאלÿÿן״ÙחעםנÿÿüזÚÞלמטכץצכזהלתÿקםטזןקפןח׃ֹֽ׀ׂזü‎‏ÿÿÿצבֻֽׁב?ABAA??ABBBDFFBACEDDCA>=>>>?BCBBDBBBCDDBBBBDDBBBCDFFB?BBACDDCA?>>>=??=>>?CFHECB?==<;<=;<>?=::;>=>=6(	 "%),-.-../1444567:<=?AABBCEFEFHKJJJJIE>88=A?=;677750,%" &(.0-'			
+!8f§ײטניßיÿÿ‎עגהנןüÿÿצפעחוÞÝותÿÿעזטשÿûחÝßףüכßÚ׃ֽ״יאושקûÿÿתה׀ֲֵּכ>?BA???BBAADFEBBCDCAA?>>?>AABCABBBABCDCABBACDBBACDED??ABBCDBAA?>====>===?CFHDCB=<<=>==<<=><<<<>??<5&	!"%(*,,.///1344467:;<=>ABBCDFFHHJJJJIIE?;7:>><:667774.)# %',0/)!
+
+
+
+
+ 7bÊßחה״זÿÿÿקחוםמÿÿÿעצשןזÚÚוûÿÿציישÿשה״אצ‏י״׳Ù׳ÞםגחץעתÿÿקÛֹ½ֵ׃צ>ABAAABAA?BDFEBACDB?BCBBCCCCEDBBB??BDDB?ABCHFDBBBBAAAABCBCCCB?=<;<=??>A?BFFDB?<::<BC?=;=>>??AABB=7.		
+ "#'(),-.//01311467778<>?BBBDFFHHHHHIIHEB;77888877778740)! #*15/%  
+
+3a™ֱײ׃ֿÊÛןןףףחחיןÿÿ‏לצüפםÝׁװזüÿÿשענמהׂׂזÿÿÿגװונםףיגחופÿÿÿÙֱֲ׃לÿ=?AAAACA>>?CFDCCBA??ACCBBCCBEEDCAA?BCCCBAACEFDBAAAA???AAABDCAA?=;:=>?BAABDDCAA<:8;?BA=<;<=>?BBBA=7/"
+	 #&'(**--///0//1578768<>?AABDFHFHFFHJIEEB=8887777666861/(" !'.33/)# 
+
+
+'Ew«׀Ý׀ֶ׃זחזטגאזםÿÿÿץןץפנטÚׁ׳טתÿ‏üצמבׂÊÚקÿÿשבßטןצעחאÞיÿÿÿל׀ֲֿטÿABBABDCA?ABEEDECBA?CFHFEEFFFFDBBBBBBDHFDCEHIFBAABBBA?ACDDFC>>?>==ABEDCDDDCBA?><<?BDB=;:;<>ADCBB>80#	!"%&'(*-//../0035667;<=>ABBFHHHIFFHHIFFFEC<754567768:884.)"!%'-45,# !#*..)%
+	"Aֶזבׂ׀וכװÚגאבטûÿÿûוגוזלגֵֽׂועתÿÿםװֳ¼ֿץÿÿÿףװ׀זש‏ףוגאלÿÿמÛ׳ßעÿÿAB?ACDB>??BCCCDCBABDHIFDEEEFFCAAABACEFHEEEHIEB?ACBA??BEEDFB=<?>=?BCDDCBDDCCBA><=>BB?<88:<=ADDB?=70#
+ !"%&')-/.-,.0335668:;<>AACFHHHIHFHJJHFEFD>853356677:;863-&"&(*/5/'%#%%,353-'!
+
+
+
+	
+ :uֲהחÛװזכ׳Úזהßזûÿÿקבאבגיזװֹ׃אםûÿÿף׳ֱ»׃קÿÿÿנ׃ּגûÿûמלטלצפהÚßל‎ÿÿDCBCEDA??>ADDDCAACEFHFBACEEEEBBBBCDDFIIHEEHFDCBDCCBABCEFEC=;;?ACDDCBBABCBBCDB?>>??=:878<>ACD?;764/%
+!!#%'(*---.0314578;<>?BCDFHHIKKJJIFFFFFFFC?=<867:>?<=><<<7/,-...00/-*,/5<CD?:4*#
+		
+
+
+
+.Z§ßמזÚÞß״זתףאיÿÿÿמßאßßזמםהßחצÿÿÿשÚָֹאעûÿ‏חִֿÚשÿÿûצניג׃׀ÚכüÿÿÿCBBCECA?==ACDCBAACEFFC?=BDDCBBBBCCCDFIIFEDEECABCCCAABBCEE?=:;?BCBCA???BAA?ABA>>=>=<877;<>ADE?85541'
+!!#'),,-./014568:<>?BCDHHHFIKKKIFFFHFHHFDCA>=:78>????>=><4..000011.*.16=BDC?;3*%						,W›׳לוÚÚÚ׳טÿûוםÿÿÿטבוßÚאיפןומ‎ÿÿÿץÝֿ׃חףקÿתוֲֿׂפÿÿשףמטÝׁ׀ÛיצÿÿÿBBCEEA?><=BDEECBCFECA>=ACDBCBAABDEDDFIIFEDCBBBDEC?>?BBBCC><<?BEEB>;;=?>?A?A=<<===><;;<?BDDEC<6778:1%	
+!!%'),--.136677:<?BBDEIKJHHKMOOKHCEHJKJIIHIJIHDA>?DEDBBCFB837::61130/011148<=:4,#
+
+
+					
+)M‹ֶÚ׳ײÝ״ׂהÿÿ‎ûÿÿûכחגÛÙÚוûûףüÿÿÿ‎טÝÝחנננשûיײֶֽטûשמייבÝÛוםהחû‎ÿCCCDCA>==>BEDCBBDEDB><=ADCABBABBBEEDEFHFEDAABBDDC?>=ABBCC>==?CDD?;8:;?>>?AA<<<<;<>>=<>?CDBC?:6678;5'	 "&(),--.145778<<?ACDDHJJHIKMPOKHEEIJKKJIIJLLKIEBACEEDCCFC<45;><6310//----/4674,"
+
+			
+
+(L‰ֱ׳ׁװßÚׂב‏ÿÿÿÿÿצלחß׳ײ״וקשנ‎ÿÿÿצוßßכעןעüÿן״ÊׁגפץיזטבÝבטעזבעקÿDEDCBA><=AEFFDCBDDB>=?CDFFEDBAABEFFFFEEEDC>?BDEC?==?BABDDCAABDCB=;<<?ABBCCA===<<ADD>=?BDA<<8557:=>:.	
+ #&)*,./1356:;<=?BBDDFIKMMLPRSQMLLJJKLKLMKPRQSRQPLHFFHEEFFE>68AFHC>841.-*)''),)''# 
+						'P’ָ״װװאבבמÿÿÿÿ‏טהםםß׃ּׁהןימ‎ÿÿתמחןננעןץÿÿüטאÝ״ÞזבטיוגםפצןßגםÿDDDCB?==>CFIEABBBB?<<?BDHFECBAACFFFFFDDDCA>>BDCC?>>?AAADFCABCBBBA>==?ABBBCA<<<<>BEC>=?BC?:87668<??;.	 %'**-./1577:<<>??BCDEIKLMORTVSPMLLLLLMOMLPSSRTTSQLHFFEDFHFA:8?HLJD>:751/.,*-,--,(%
+
+
+
+
+
+)Q™ֻÚÙÚßÞזפÿÿÿÿüאÞםןא׀ֶ׀הםחןÿÿÿûםםששףעףצ‎‏תלוß׳ÝגולטיטכןףםאבמÿABACA===AEHHB>?BCCA>>ADEFECB??ACEDCDCCDCCBA?CDEFEBA?ABCDDC?ABABDA??ABCDFFDA>==>ACDC=<ADC=8877:>BDA8/" #'),.111568:<>?BCCCBDEILOPRWZYVSRQOPOORRQQSTTVX[ZVTRMLJCAEEDB;:AFKMOOKIHHHFEDEAAAB<0 
+
+'L–׀בםםוÞמתüÿÿÿלÙßנעÚִ½׃טבגפÿÿÿתעשÿÿÿקננןעץמלחײ׃ÛטנעצןÝײגכוולÿ?ABA><==?DFE?<>ACC?==ADDDCCA>>ABCBCCCBCCDCAABDFFEC?>ABCDDA??A?ABA??AABEFFD?=<=>BCDA<=ADA<7877;>CDA8/&
+ #'),/003457:<=?ABBBBDEHLOPSX[YTRPOOOOPRSQQRRRSWZYVTQPPLEAADEB<8=BHKKMPQOMMOPOMMJHFC7%
+
+
+
+
+&KÊגןףיאלץשÿÿûו״ßממ״ֲ½׃טהגעÿÿÿתץ‎ÿÿÿüמיכןףככיײֿÝכנףתמ״ׁאלובזû=>>=<<<<>CDA<;=CEDC?>ADCCDDA?AAAACCDDEEDDEHFCDFFD??BCCBDDCCBAABA?ACCEHIJJDA>???BDDDBBDC?;88::=BCA;51*	"'),../144578<>=>=>ADEFLPQTWYXTSRRPQTVVVSRPOMKKQQOMOLJID;435731--3:=AIPTWWXX[^\[WRMD-					
+)Pֳטÿÿ‏טאאגלמב׃Ùילחז׳ֵ׀מ‎ÿ‎ÿÿנטפÿÿÿÿüזÝÞזמלנםÙׂÝןש‎ÿקÙֿהץיÝÙז<=<<;;<=?AA?<;>BDCB??BCCCDDAAAA?ABCEEEDCDEFECDEDC?>BCCCCDCB??BAB?ADCDFHHHCA?A?>BEFDBABA=877:<<>B>731,
+!#()*-./13346::;==>ABCFKOSVXZXTSRQQRTXWTSQMKKHEJKIIIFDC>6.*,..*)'*368?KSVWWZ\^`_[VOE0				
+/X’ֹעÿÿÿיßÛאככÚ׀ÛמממףבÊ׀נÿÿ‏üתטאמüÿÿÿשהÙÛזמםץמÞ׳Þםק‏ÿûÞֿוקחÙׁÝ>><<=>=>>AA>==?BDCBAABCEFECACCACCEFIIHDDHJIFCCCC>>?BCCCDDCA>>BDDDDFEFHHC?>?B?>>BFHC>=<:78;=??=?=75460 	 !""###&())/368;=?CHKMRVWWTSPQSVY[ZWRLEA=746:63,(#!&*6DMSSSVY[[[WRK6					
+'F|°בÿÿÿÿמÝ״ÞוÝֽֽחקץÿÿת״׃ףÿÿÿףה״״וע‏ÿÿקגÚÚחשצנכחבÞהנÿÿÿלװאם׳ֳָײ??>==>>????>=>?BCB??ABDDFECACBABCDFIIFDCHIHECBBA==?ABCCCDA=<>ADDDEFDDEC><<?A?==AFEA<;:87:<????>;64671!""%(.157:>CIKMQTXXTQPPQWZ\[XRJD>84/03/)#"(0<FMQRTVWXYWSL8"					
+
+,P‰½יÿÿÿÿנÝÙבהÚÊּטüתÿÿÿא״עÿÿÿעג״ÙזעüÿÿקהÚÚיÿûמכזÞÛאןÿÿÿןׂÙב׀ֳֹ״CB?>AAABBBBBAAABBCCCDEFFFEDBCCBDFHHHFEBCEEDA?A???>??ABA??><=AEHEBDC??A>:8;>A?<<>B?<8888:=BEDBA<767:<7'	
+				
+
+!'.4<BEILPVTTQOPSX\^[VPF?81*'%% %(,5FTXXVVYZYXWO=&
+	
+				#Dx¸גצÿÿÿÿפוחיא׳׃גשüתÿÿÿןÚלÿÿÿעÙ׀ÛןפעעצצטאאפÿÿץמלßÙÝןÿÿÿנֱֳֵֿÚÞטBB>?ABABBBBA??BCDDDDDDEFFECBBABDFHFEFDABEDC?>===??AABBA?==<>BDHCBCA>>=<87;?B><;=??:88778>CEDA><:77;<7&	
+
+
+
+ )07>CFKORRRPMPSX\^[WPF>70*(#"  !%()1DV_`\\\[ZYWP>(
+
+
+	
+'JˆֹמתÿÿÿÿנטםמגÙÛמ‏ûץÿÿÿפÞחשÿÿע״ֿאףשןכנתלßזשÿÿץםטÝ״Úנÿÿÿצֿ¼¼ÊהזנA?>ADDCBCEDA?BBDEDEEEDDEFECBBBCDFEDBCDCEFEBAA>?AABCCDCCB?>>ADFEBAA=<<><8;>BB>::<=<;:;<<=?DEBAA=:7:;<6(						!*37=CFKLMLLPTZ^^\WQH;1*'%!"%%&),.4AR_eea_^WTQC-
+
+		/^³צÿÿעממםלק‎ץילףÿÿûןתÿÿצאÝהמ‎עÛÞץÿÿקכמפחותÿÿתפףßװßחשÿÿÿüײ÷¼ׂטלמ?><?DCBBBEDA>?BCDDEEDBCCDEDABBBDEDCBBCCEFDBBAA?ABCCCCCDC?=>BDFEBA?<;<==;<?BA=:8<>=;;<=?=ACEBAA=:78:;8)	
+
+					
+'.4;ADHJJKMRW[^`_ZTJ=3-'%"  %())*,.0:IYbeca\XVQD0
+		
+/c¼ÿÿ‏נלחהםûüףכןפÿÿûןףתüעßÛבמüמÝהתÿÿûלםםגז‎ÿÿקנמÙײוםתÿÿÿ‎Ûֱ¿׃חיכ<=<>CB>>AAA>=?BCDDEDA?ABCCA>>ABEFDCCBDFHEEDCCBCCBCEDFFDB==BCBCC?><;<>ABBCBB?=<<>A?AABCBAADFDDB=878::8*
+
+		&*/6<ADEFKQX_effc[PD=61-,-//0334468:;;==>?CHIHA;7558CSaffb^WRF4!
+
+
+/gֳתÿףטÞײװכ‎‏ץנפןף‎‏תטבלפב״גהוÝÚל‏ÿÿ‎םחוהמ‏ÿתכאßÚאןצüשץ‏ÿץבÙÛÞ׳Û;<<?BA<<=A?=>>?BCDEDA?ABBAA==?BEFECBBDFEEECBCDDCBBDDEDCA=>ACBBCA==<=ABCCCCA==<=??AAAAAA>>CDDCA;788:87)
+
+	
+%(-48>BCEHOX_egge^RFA:400367:;;:;=?BBBEILMPSSQJD><:;?L[egc^YRI6!	
+
+
+	
+/g¾ןפםטÞׁׂכÿÿצןפםלצÿûכßיפוÞטגÙ׳ÛכûÿÿûםוגגלשתףבÙÞßחנפשןטצÿ‏יßßÛ׀Ù;<>>?>==?BAB?>?BEFHFB?ABAAA??AEHJFCBBDHFDCDCCDBB?BECCAA>;=>AAAB?>?BBBBDFFB?=>>?AACECC?<<>BBA?<8::::84&	 #',.035687640-(%#  "%'-15:?DIQYalqqoh^RIFDDEHIIEB>=<;;;;=BHMSY`ehg`ZXXRKHL[efb[TM?*
+
+
+
+
+
+7s¼ÙÙßלה״אשÿÿץםףוÞכüÿקגוםחמפאֻֻÝטףÿÿûמיגגכץםÛֻֽאןםלןמא׳םÿÿצמג׃ֹÚ<>>??==>ACBBA?>CEEFDA?ACBAA?>ACFIFBABEFFDCDCBBBA>BCBBA>==<<????>>ACCBBCEEB<<<<>>ADDDB=<;=???>;8::::74(
+ %(,0367:;===;750-*'#""!!#&*.37=BJPYalsusjaVMLKIJKKHD>:5313467;AFMT\bfge`\[YSOMWbfc[WOB.
+
+
+
+<{¿׳ײÝםזßוקÿÿץןפגÚטשÿüחבחכפפבֽֿÞטץÿÿ‎פםזגכץםÙֹֿהףממנןאײכÿüשפג׃ֹÙ?BBBA?CDEEDBA?ADECCBAABCCBBAABEHHDA?BFHFFEECBA?AABBBA>>?AA>>ABABCEHECABCB<;<=>?ACEFEB<;<=<<==:7::8887-
+"&),-,046:>BDDC?<:74/*&"   %*/5>FPYcnuwuof^XVSPKHA:0'  #%&)/48>EKQW[bfhgfeb\\bfc^XRJ:"
+
+'O™ÙזÙÝםטמףûÿÿקינלÝאןÿÿמÞÝעüףז״׳החףÿÿÿÿüץםםלגÛ׳ßפûםיןיÞÛלתצשצחÙֻװABBAAACEEDCA??BEECBBBBACCDA>ABDHFC??DFFFDDDCBA?ABBBA?>>AB?>?AABBBDEDA>?AA<;;=>>ABDFD>:;<=<===:8:86786,	 "#%%%',.04:<>?>?>;863.(! &,3<FOYbmtuupga\YSPKE<4(!#'-37=DJMQW\ciiiifb`bgf^XSK=&
+)X¥איÝÞכיןפÿÿÿצלצעגאנ‏üםÞßץüנוװ׳ההמûÿÿÿÿûפנכאßאיקûםטחבÝÝנüפפפלאּׂABB?ABEFEDC??BEEDA?BCACDCC?>ABDFHDABDFFEECBCCA?BBBCBBBCCAAABCCCBBCCA?>>??<;<>?BCCCCC><<====>=<87666:8, '.144444453.%"*6AKWajpssohc^VLFB7)!(3=EKMPSXblnnnmhilic^XSF/
+"8p»יףןלכוßמÿÿ‎לףÿÿעןשפחהזק‏צנגׂײÙ״זעףüÿÿÿשטÝÞיüÿ‏ץוÝ׳ÛוןÿÿפמעצלֲֽBAAAACEEDDB>>CDDCA?BBACDCB?>ACDFFDBACFFFDBABBA?BBBABBABBABABCCCBABCB??=>==<<??BCBBAA=;<>==>??=:7668:8.	#,3455510/," )4>IT`hpsplgc^SKE=1#(5?EKORW^gmpponlmjf`[VJ4
+!(A{¿טשצעמזבם‏ÿתםפÿÿץץûעהבל‏‎נלגײײÚÚזםןשÿÿÿץב׳ÚכÿÿüפבÚׂÙיפÿÿפעצûלÊ¼ABBBDEHEDCA=?BA?=>BCCDEECA?ABDFFFFBBBDCDCAABB?>AABBCDCCECBCDDDB?ABBBB?===<>?BFFCA>>>=?AA>?CDC?867:<=>5#	
+%,18>8*%-8DQ[cimlhe_WJB<1&
+%-7DPWZ_ipqqsoomhfc^S>"
+
+!%#!(8AKl¡ֽבשüףמזהאגףףםקÿÿןףûפזזת‏מÞ״ÙÞזחיפליפנץפß״ÙÙמÿÿ‏ציÛׂגשÿ‎עעשÿÿכֱµ>ABBDEECCB?<>BB?=>BCBCDCAA??BCDEFDCBBCCCCA?ABA>??BABCABCCABEDBA>?AAAA?<<>=>AADEB><=<=?AA??CEC=767:;<=6%
+		&/05::*#,7DO[chjhca^THA:."! &(0<ISZ^fnoqqpolhgf`TB&
+'**'-AO\‚³ׂÞנתפמלוÝאםממüÿ‎לף‎שםיפץהײׂײבןעףקםינכןמÝÚÚÚףÿÿÿתןבÙכ‏ÿûמןצ‎ÿח½¶AAACCCCA?><>BCA?ADECBBBBCCBABDEEEDECABCDEDABCBBBBBABA>ABBCBAABAAABBA?>=?A?ADFED?<;:;>BB?><??>:6678:<;5'WCKfV7" 	
+
+(1>JT\bfeb^YVKA6*&"!"(0-	78(:IC61:IT\elmoqsqollje\J-/<<816Rtֳ׳׀ÊÞףצפפזÚ״״אקÿÿמועÿÿשעןאֻֻׁÚןקץתתעןכחעףכןלßצÿÿÿÿ‏ןחץÿÿקלםףץעÚ½ֵ>?BBBB?==;<>CC?>BCECBBBABDA?ACDCCDDBABCDECBBCBAABBA??=?ACDA??AA?ABB>>>=?AAADDCB>;::;>A?><<=>=855678::5'	6>Y†n=
+	
+'1<IT[`cea[XWMA5-&#!"*4/ 	aQ'CSO=48HS^cilnpppmlmlh^L0"5CA<58V~¯װßָּÝעץשץהײ׃װאûÿ‏יגמ‎ÿÿפםÝֿׂ׀אףץןץקףץןלץפםצמßץÿÿÿÿÿןטץÿÿעחכםמי׳¾Ê==AB><<:;<=ADB??BEDAABACDD>=?CAACCCBABDECBABBA>ADDA?ABCDDB>=AA?=<=<<>??ABABDDC?<::;<???>==<==;7678:;<7)
+	(<fƒm:
+'0;EOX\`b`YVWRH=1&!,54)!7V`TD=DMS[cijloommopqlbR5&8MQJB8;Y‹ּןגֶֹßתÿÿקה׳ÙÛםÿÿנÝÚבףÿÿתלÚÛוזמûףכםףקשצעש‏ÿÿ‎כלםמÿÿÿםהטעץנגגככהײֳ׃=>AA<<<;<<>ACB?>ABB?>ABBCB==?BBAABBABACCBA?ABA=?CCA?>ACCB?<<>?=<<<<=>>>??ABCDB=;::;<?>>===>==;76888:<7(
+	
+
+;ex`0
+'/:DMX^_`^XTTRI?1& )04."#=VXMB?IQV[bhjmnomlossncS7!/BRTLC;=Z׀ףזֻּגûÿÿץה״ßבןÿÿעאÚÝןÿÿûםאבכלןשעםלפקףפנצ‏ÿÿÿמםטםÿÿÿןגוטמםגßטמוÙֵ׃>AB><;=>?>?BBB>=>BCBAAABA?==ABDDCDDDCCEDBA>?A>=ACEDA?BDB???<?B?<;<>?BCCBA??CDB>::;=AA?>?BB?=;::88::<<:0!
+			!=PO8	"*5>IRX\^[YVSRPE3)!!%'*,' !1CIIHKS[`cccfglmnonqtuql^F* 0EYe_WOC>Q|¸כפחßישÿÿנבאםץןםנעלזהכצÿÿ‏ןכםמםםםןעץצץץפצ‎‏ÿÿשנלןש‏ûמבÝÛבמםזחמנכײּ?A?>;<=>>?ABBA==?BBAAAAAA?=>ACDCCDDCDCDDA?=??>=ADEC=>CD?=>=?AA=:;>ABDDCA=>ABA>:8;?AAA>=BDA<;;;:;88:<<8*
+
+
+
+	
+->C8#		&/:CMV[\[[VSVTL>1)#  "#'*,)# !"*;EKQQVZbhgccfimmnopsttqiW;.H^hg[SJ>FhÝתמגזצÿÿפהßמקנחכקףכטחםüÿÿצהזםןלכמףץצפץףעשץצ‏üףםםק‏תמבÚÚÛכעכזיעףאֳׂAAAA>>>>>?BDC?>=?A?>?ABBA?=?BEEEEECBCDDCBA?ABABDEDA=>BA==>>BCA?=>BBCECAA><<>=<;<>CDA?=<AC?;;<===;8;=?</
+
+	 %)-/1'			
+&1:AKV[^\ZWTSTQJ?6/*(((,/3358=?EOWbjgglqsolfeglmnpqtvvsiX:*Cctul_YMEW{³וץחÛט‎ÿתטÚÚיצשףעקפכםיזלüÿנÙÞןצנעףק‏ûתתמכנוÙטתûץץÿÿמÛÙגהגחלחבטנט׃¾׳AAA?>====?ABB?<<>?A??BCB?>>>BEEEECABCCCBBBBBAABBDB><=?A===?BBA>==AABBA??>;<>====?CDBA<<A?>::<><<87:>A;. 
+
+
+ !!!##&)-00/#
+		
+
+'18BKT[\\[VTTTSJB:1,,**.368<?EJR[biljlpuupmgcgjlnpquuvthW80Kgvvm`ZMJ^„½לץזÚהüÿשז״״גע‎‎צצףיכיהיüÿמÙÙןתץשקüÿתקקלטםב׳זתÿקצÿÿטÛבטטבבטהÞטןהֱׁÚBBCA<===?AAB?>=>>?AADDEB><<?CDFFEB??BCCBCCBA??ABBA==?BC?<>CDCA>>???A?>AA?;<ABCA=ADDB?;;;;;;>A???;8;?>83&	 #(*-/04565/"			
+
+ )4<CJQY_`\YVTTSLD>:530037<CHPW\cinppquuuusnigiiiilnquvshW66VjuwobZQYv ײףמß׃ÝפÿתכÛÚÛןÿÿÿץנםטזßגתÿפÙׁÙזפÿÿÿÿפףןזינחÞל‏ÿûףüנÙÞצתטÚ׳ÙÙÛובײ׀׀חBBB>;<;<>?AB?>==>=?BDDDA=<=ACCEFDA?ABBBCCCA>>?ABC?==>BC?<=BDA>==>==>>>AA>;<?BB><>CCA<::;:;;=?>>>;78=>:1)	 %'*/157761)			
+
+ (3<CJQX^_^[WTTSMHA=:54457>CJRY_cioqquvvvtqmiiihghjmquushV4 6YmuulbYR`¬ÚןטÙׁÙפÿ‏עבßאנÿÿ‎ענםיחßו‎ÿתÞׁׂÝףÿÿÿÿףנםויפןזל‏ÿשןפח״בûüח״ײװװÚגÞײײײחA?=<:;=?>ABBB?=?AABCEFDA>>?BCEFHDBAAAACDCC?==>ACCABBBBB>=?CDB>=><<>?ACCD?=?BB?==AAA=::888;>BCAA>:67;<;70&
+ !#(-0343/'!,6=DKRY_`_[YWVWTPKJFECAABDIMRY`eiptwzzwvtqmihgfghjlotvtiT5 3RfosncY^v׀גחטײװגüÿÿÿתקצפ‎ÿעלןןעפליצÿÿח׀ֿÚןÿÿÿÿץיבÝנÿÿעצÿ‏םאÙּֽט‏קוÞÝ״׀׃ÝזטטÛג>==;:;;<>?AAA??>AAABDFEBA??ABDFFDCAA?AADEB?><<>BCCBAAAB?>>BDB?==<=>??ACCBA?BBA=;=??=;:88:;=?BA?>;76:<<85.!	"'*.010,#'0;AHOV\_`^\XWWXVROLIHDEFHKMRX\cipuxxzzwvsomjigghilnqtun^C')?Yippi`_s—ֲבזיה׳Ýנÿÿÿ‏תüתףפפמכןפûףזכ‎ÿüג׃׳אףÿÿÿÿיßÛזüÿצפûüנב׳ּֽÛץûמאÞÞ׃ׁ״זןןזß?==<<=?AABBAAABBCCACEFCAABCCCEFDA>ABCCEIFA==<>BDDBBBAAA?ABDEC>=>>?BCBBDCDCBAA?;;=>?><:::<=ABA=<<:::;<;74/%  "&(*.00,%".8AHMT\acb^\\Z[__^[WTQQRWXZ\aehmsvxzzxwuspojhghilnoqtvunX6'3E[lqoc^o—ֶטקעכחחגמÿÿץמתÿÿתםחכןןצÿח׳טÿÿÿנהÚÚלÿÿÿפÙ׃ÝפÿץטםשעÛּֽ׃Þםשצז׳ÛÝßבזצÿ‏טגA?==<<>BAA??BABCBCBCDFCAABABBDECA>ACCDFHD?===>BDDBAAAAA?AACCA<<??ABCBABCCBA??>;:<>?><;;;<>BB?=<<;;;=<:651(   !%')-/1.)!#.:CIMT^cba`^\[\_``^\YTSVXZ^`ehlntwxwxvssqqnihghijmostwvnY6*5F[nomc`tֿםûקמלכאהק‏עיצÿÿ‎ןטחןנףתו׳זÿÿÿüמÞ״יÿÿÿףÛװÝףüנחםתעÚֽֿײהנצפוײÝÝזטטףÿÿלוB??AAAAAA??BCBCDDDCDEEA?BBCBABA?>=?DFFHEB?>AAACEDBACBA??BA?B><>BAABA>ABCCAA?>=:8;>CB>;<>ACDB>?????>><;8660%
+ "#%##%'(*.033/'&/;DKPW_ccca`__`aehhfb_\Z[[_cinqsttuusqommmjihhjlnpptwxwpY5#3?J[ntofi„µ׳זעתûץזÝאלצףßÝןÿÿקזהיעןניהוםüÿÿÿוÙחשÿÿקזÞßכמחחםץמÚ׀ÚיפüצטÚ׃ÚßםעלףÿÿןמB?=?AAA?AAABBBBDDDCDEDA?ACCBAAA>==ACDFEC?>>??BDDCBBA?????>=>><>ABAA?>?CBBBBA=<88<?CC=:;?BBC?=>?>>?=><;8663(
+!  "%%%%&'(-/141.'&0:DJQY`eecbaa__bfiihfb\ZZ[^chnqusuwtqqonlljhhiilnoqtxzxoX3'5BK[oupio‹¼׳ÛחתÿשזאטנתצßײכÿÿץואיפמןמחגהצÿÿÿהÚגןüÿüכבßגזהולףלÞÙזץü‏פב׳׃Ùßמעמץÿÿען=;<>AAAA?>>BBBDDDEDCDA?BEEEBA?=><>ABBBCA??ABBBDFECA??B??><<??BBBA>A>>BCDDBBB>;8;>BEC?<<>>>?><>A>>?===<8665."
+		 !! "%&&'()-/03553.%%.:BJT\_bfeccb``beglmiea^^^_aegjjlpvxwtpljjjjijopqstuw{{qX1 -:DP`pxus{ ּװׁאתÿצכמק‏‎קוײו‎ÿפחומתצנפןגגפÿÿÿגÛÚÙחÿÿשי׳ײאוגבחגßלתÿÿüםÝּׁ׀Ûטף‎ÿÿתהג=;;==??>==>ABACDCDCCB>?CEEDB==>===ABBBABAABAAACEDBB?ACA??>>>ABBA?>A??BCCCAA?;88:>BDB>==>=<=<;>?>>=<<<;7541.#
+	
+ !!  "#&&&()*-003563-#",7AJR[`bffecb`_abehjhea`_^^_bfghjotvvtomjljjlmpqstttw{zqY0!/;EQbsxut§ׂ׳ׁßקÿץכמצתüüכÚגשÿףייןשצעפעחחקÿÿשבÝÝÚיÿÿ‏םײׂÝחוßהבגנüûÿשיא׳ֻֿÞכפÿÿüץßÚ::<>AA?=<=?ABDEDAAAA?>>BCCA=<=?=>?ACEEDCDCA>>BDDDBAACEC?A?ABBCDA<<<=?ABCA><;::;?BCCA>;;<88;=>?>;77::;876430' 
+		!!   "#&'(),.0457873)!(4=FPYaefeeeca_\^^aeeca_^_aaaccehjmqtsqooonnoqtvvwxz|~}sX0)7?HVfuzx|–ֹחß׳אעפלטןץענץכÙÝנ‎ÿ‏עםנלויץצמנתתםזםןטעÿÿÿתבװÚהÙ׃Ûהעÿ‏יגהחמי׳Ýםנקÿשלוּֿ;;=?AB?==<>?ACEBAA?A>>?ABB><<>>==?BDFECDDB?=>CEECC??BDC?>?AABDC><;<=?ABBA=<:8:<?BC?=<:8866;=?><7568:8866310)!			
+ !!!!!#&'(),.1468761(  &1=FOYaefefeca^[[^_a``a`_`a_abcfjlmpqstpoqqqpsvvxzz{|~}sY1  ,:CITeu|{ׂכÞװÝנףטחנץמכנח״Ýע‏ÿÿפכלוÛוףקןםצציכףץכןÿÿÿ‏ז׳׳Ý׳ׂßלûÿÿזÞבחעמÝגףעפüשכßÊֻ:;=?BBA?>=>ABEC?>AB?>?ABBB?=?A?>>ACHIECDCAA?ADEDDBABEHD?=>BCDEDA;<=?CDDC>;77;>=?A><:88:768=BB?:557;;:754101.%
+		 !  !!"&'(*-156:;<;4)&0;FPZaehihfcb`[Z\^\ZZ[^`a`_`cghiiloqtuuttvuutuwz{|}~|s[8)()0:?CHQ`p{¸זם״ּÙןצץששםßÙֿׂÚנÿÿÿשחוח״׀ßףûקקתנחץ‎שףפÿÿÿÿו׀ּ״Ùײח‎ÿÿ‏כאגכעףחןתצצüûנאׁÚ:<=?AAA?>>>ABDC?=AB?=?AAAB?>?A>>>?CHHEBAA??ABEECBA?ADFD><?BBDEE?;<=?CCB?=:67;>>>>=;768:868<BB>:667::8631103.&
+	 ! ! #%&&(-157:<>;4( %/<FOY`chigfba`^[^_\Z[^_aa___bhijijoquvvvuuuuvuvx|}}~|t^;0006<>?EP^nx–ֵםםײּÛעûû‏קלÚװּֿÞקÿÿÿץוחח׳׃בץ‎תû‎ןזפûûשץÿÿÿ‏וֻֿÞבÙי‏ÿÿתםזטלמכגםשקץûûםßׂג===>?>>?A?>?ACBBABB???>>?A??AB?>?BDFEC>AA?BDFFEC?=>BDDB>=ABDFDB>===?B?<><877:;::;;868<=:8;;>=<:7:87656443364,"
+!    !#%&'*047;>>:3'#/:CLV^`eiifea_`abbba__^^\_``bfhimnpqtvvxxwwzxxxx|~|s`JJIC=88:BKYgv†¨Ýףכ׃׃טץש‏ÿמײÊּ׀׳יתÿÿÿתלןםאאטףקÿÿÿûולןמףףפÿÿץי׃ֿיףזכפשעטכפףח׳ֿװיüתצüûםßÝ‎<<<??>>?A>=>ABBBAB??A>==?A??AA==?BDFEBAAAADEEFDB?==ACC?==ABCDC><=>=AB><=;8778;:8;<:8:>>:::<=<;:8876567534565-"	
+!  "#%&(,06:;=>;3'#.8CLV\`ehihea_`beeeca_^\\_``aeijoppsuxxwxxz{xxzz}|t`MPKC<76:BLZgx‹°בפי׳Ùלנןשüי׀ÊֽײÞיקÿÿÿ‎ננמהגלףצÿÿÿ‏טיטזןמןתûקל׳׃םתןלןףכהמץןאֻֿװל‏ûקתשמÝÚÿ=>>???=??<<=ABA?>A?><;;=?BBBB?>=AEFFEDA>ACDFHFA==<=AABCBCCBBA=<=A?<>A>==<:::::;=>>>;=BC>;:===>=;8776686566781(
+	
+   #%(,/357;>=:/% *4?IRY[`bcba`\Z`gmmge`\^^^`aeefipttuuttwz||zxwuw}‚‚{q[MI<611:DQ[fp—½אוÞÛזעכÝבח׃ֵׂביכנשÿÿÿÿתלÚ״הקÿשÿÿÿüחÝׁÙלזגלצüףימ‏ÿ‎נגÞÙßמיבßÛÝטףקûüקנחײÙÿ==>?A>=?><<=AA?==>>=<:;<>ABBAA>>BDDDEDA>ACDEEEA=<<=ABCDCCBA?>;;=AA=>A?<=<;<;::<=?A><>AC?::<>>?=;8777676577881( 
+	     "%%(,.1568<=7-" )3?HPW[_abb`^ZW\ejlic___\^`befimptvvttvz|zxxxwuw‚ƒ~xmXI>4//5>KXbmuƒֳßגÝÞיפלßהגִֽÙמפםנק‏ÿÿ‏ציÙ׳ז‎ÿ‎ÿÿÿשהÙׁÛנזÞחףףמןקÿÿüןÞÛÙגלאÛגזטמףץû‎ץןג׃׳ÿ=ABA?AAA>==?B>;;<<>?>>>>ABCDCA?ABCBCDB?>ADDDEB?>?A?CCCDCB><<88<=<>>=AA<<<>A?<:<?B?===AC<8:<=>AA<7:<;:;8:;8774-# !!  "%(,/3678;:4( (1;EMVY\ab_YROMRZcffeaceeabfilmnsuuwzxx{{{zvwww{~~‚|whO6)'.8HVajpx‚“®ֻ״״ÝטקüנכחÛׁװןÿÿכבכםת‎ףטÞ׃ׂחÿÿÿÿÿפטוßßםצםבבßÝחûÿÿÿשהײװ״זז׳בפüשנטלûûנגÙ״בÿABBA>?A>=<<=?=;;<<?A>>>>ACDCA??ABBACBB??BBBCCB=>AAAABCCB?<;<88;=??>>?=;;<=>><;<?B><<>B?:77;=?B?:7:;:8;:;;8765/&	
+    "%(,/3788:71('0:EMTX[ab_WMJKMV^cfcaegeachlloqtuuvz{zz{{wxwvw{}}vfJ0'(3AP^gms{†´ֿ׳װßנü‎ןללÝ׳בףÿÿטÝחםש‎נהÚװׁיÿÿÿ‏תםזזוםצצלהגÛÚז‎ÿÿÿףß׃װÚוזÚחü‎שמהישקלא״ÞטÿBDDA>ABA=<=?B?<;<=ABBBB?ABCBBBDCBB?A?>??BB?ABAABAABBCDDB>;<;:;=BDCBA>=<===>><:;?A=<<=>><88;=>>:77:<::>=<:78675,#
+	  !%')-157774*"(/:CLSWZ`c\QFCDHKR[__achihijmnpqquuw{|zz{zwzwwxz|}}|zqaE0.7EWfotw}ˆ¼ֿ״״׳ףÿÿûויכבעÿÿÿÿעÝאלץûףואאגפÿüנש‏עםפüÿÿ‏עללןםמץÿÿףחÙֿֿ׀Ûגßט‏üןהÞגמןזßßמצÿACB?=AB><<=AB>;<<=ACCCA?ABBBBCCBBAA??>?ABAAABBB?AABBBDDA=;;<;;>BDCB?=;<=>>=<;7:>?<:<=>><;8:;=<877::8:<=;876666/&	
+  !%')-04674/(!'/8CKRVY_b\QFCDFJQZ^^`behhjllnpqtuvx{{|{xwzzwwx{|||{xq`E55>O_ltw{„¨Ê״ÚÛÚץÿÿüההזבצÿÿÿÿנÝÝטףüתכבגחתÿץםק‏קעףÿÿÿ‎ףןנענעףקציוÛֽֿׁÝוומ‏üםßÛאםנובזפצ‏BCB?=>??=<=AC?=?>ACDCDB??BCCCDDCB?>=>>ACDBABCCA==?ABACA><:;>??CDEEA<;:;<<==<88:<=;;<=>><;;;:8:::==;::;:65777676/&" !#&),.341,&! (18AJRYZ_a^TMKMPPPX[Z\``bgjlmqttsqtwxxxvwwwxxwzzz{{zwn^LJMXgsx}‰—®ֻÛוייכף‎ÿ‏טֻׂÞÿÿÿÿץßֿׁהצÿÿÿנןףקץיוםץףללתÿÿÿפץÿÿÿתלוßÞזב״ÛÚבינÿÿתלגוהימגזקüנזBB?=;<<==;<?B?=?ABCCCDC?>?BBBCDCBA><==BDBBBBBB><<?AAAB?=;;;>ABCDDD?;::;<>>=:88:;<;<=>=<;::;;:;;=>=::::7546776761("!#&(,/31.("!(0:BIQWZ_b_WQPQTSSX[[^_aafjjloqssqtvwwwvvwwxwvwwx{zzvl\PRWanw|~…¡¼׃אכעםםםקÿÿחֽÊהÿÿÿÿף״Ê׀גקÿÿÿצקקקנכטלמיחחצÿÿ‎נצÿÿÿüלגÛÝחחגוגהיפÿÿקכחטוחיאי‏ÿנגA>>=<<==<;=ABAABBBBBCDC><>BABCDCB>;;<>CECCCDECA=?CEDCCA>==>CEEDCA>;<<<>BA><:88<<<=AB?<;;;:;;:;>AB>87:65458;88874/)" "%()-.-'!"*3<DKSZ^abc`^^_aa^[_ba\__chilmopqqstuvwwvuuuuuwvuxwvqgY[fhnuw{‚©ֽוחוע‏תנינüשחׂ׳פÿÿÿÿחֿׂבץÿÿÿצפ‎ÿ‏תתקןגÙÙßנÿÿüכץÿÿÿÿןא׃׃ושÿ‏נםנצüנבוםןטßÝÚזÿÿüח?>?<<<<=<<=?AABBAAABCCB?;=??ACCCA=:;<>CDCBCDCB?=?CFDCCB?>>ADFEDA>;:;<=>?A>;878<==>AA=<;:::<;:;=BA=76775458:777641-&  "#'(,-*& #,5=EKRZ_aeggcbeggc`acc__bcfillnppssquwwwvuuuvwvuvvwvpfW\ilouwxƒ”³ÞםטטףüûנזמתשכÛאקÿÿÿÿזׁׂהüÿÿ‎ננ‎ÿÿÿÿûנא״װÝנÿÿקזעÿÿÿÿנאׁׁוüÿÿעםנפציÞגייחÞÙײגüÿ‎כ>>=<>??A?=?BA??AABBBBCA<:=??AACCBA=:=ABBAACDCBA?AEEEDDDBAAACCCB=:88;=??;;;8:;;>A?ABA><:88;==>?A?=85577658888875100*"""&)**(!!)1:AHQZfhfhnqnmmppofciga__abfghlmnquuvvvwwvwwwwvwwxvunaV^moqssz‰§״ץנוטנץüפהיקüשûÿ‏ÿÿÿןÙÊֽßקÿ‎ןבוץÿÿÿÿüםלםלץ‏ÿÿןÛגüÿÿÿנÞֽ׀גÿÿÿנהבגגÝÛבחיםחÙֽ׃כ‏‏‎<<<=?A?A>>?B?>>>?AAAABA;:;==?BCBA>;:<>AAAABAAAAAADEDCCCBAA?ABA>;:77;?A><:::::;?BAABA>;878;=??AAA<74477758::886410/,%!"&)))&!"*3;CJR^injlpspnmoqpgcjib__aaccfijjostuuvvvvwxxxwvwxwtl`T_mqsqsz®אקמבגיעüפזםצתתÿÿÿ‎ÿÿחװָֹÛעÿÿףבהנûÿÿÿתלפ‏שÿÿÿüי״ÛץÿÿÿףÝֽ׀ב‎ÿÿנÞÙÛßÞßהילםטÛּׂז‎ÿÿ>==?AAA???>?=;=>ABAA?AA=;;<?ABCDB=<;=ABBCDB??BBAABDEDCC>>=>>>A?===<ACC?<:;===>BCCBBC?=;88<?AAA=:764568::=<;7764000/,%  !#(*)'# %.8?DLXg}„xtsmaWX^efbeiie`\^``aehilmopstuxxvwxxxxxwvtpi\Xcotvw|†ֱזןßׁ׀׳ישןןפםגףÿÿü‎ÿûÝÙÛ׀װח‎ÿשףתעף‏קןםןÿÿÿÿÿתחÙ׀Ýüÿÿÿףׁ¿ׁלÿÿÿעÚֽײבוןÿÿעעפפח״Úנתÿ<>>AB???==>=<;;=>A??>??=<=<?BABB?<;:>AABDCBABBBA>ACDCBA><====>>?><=ABB><;;>>=>BBB??B><;87;>>A?;755436::;=<:66641000-'!!#'))(%!%-7?FMXf}„{uofTJMV_`_bghfa\\^^`beijmnopsuwvvwwxxxxwvupi^Zgpvz}ƒ‘¨ֳגכ״Êּ״מקןנןוÝףÿÿ‏ÿÿתאאאׂ׃ו‎ÿצתÿץםצןטחעÿÿÿÿÿףßײװוÿÿÿÿעֻ¾װץÿÿÿץÞׂÚוטצÿÿנםץשןÝ״מקÿ?A?>?=<<<=>?>=>>>====???==>?CCBA>=<=ADCCCCBADEB?>ACEDA>=<=??ABBBB?=>>?><=?BA?ABAB?A?><878;ACA<:878878:<==;54556544310.' "%'),-,*'" ",6AHOX_hmni\MC?EMVY_eihgb_\[[[`cehjnopqstuvwzzxwwxvsmcY`s~…¯ֲֹÊÛוÛׁׂכûנלנו׳ÝשÿÿÿÿÿÿנכבּׂÞשצם‏ÿפגßÞÞטüÿÿÿÿמÞ׳״Þפÿÿÿÿםֵ¿Ú‎ÿÿÿüףיזלפÿÿÿןבלûשזßטזנ?AA>==<<==??>>?>>><==>>??=>ABBB???>?BCCBBBBBDDA>>ADED?><<=AA?AABB?<=>?><=ACA?AAA>=>===:77<AB?;8867778:;<;7514545433310,# %'*,--,)&"  *5?FMT[cgfcXJHFIOV[`fihgc_^\[^accfjlmqsstuvwxxwvvvtplaYax†°ֲֽֿׁאחבÚ׳ם‎ףןנג׳ÝשÿüÿÿÿÿצנאּֿÝעכי‏‏םßÛ״ÞםÿÿÿÿשיÛÙÛßץÿÿÿÿלִֹÝשÿÿÿûפןכמתÿÿÿםÞח‎ûחאהßכ>=<;<<===>A?>=AA?>>>>>BCB?ABBCBAABCDBBBBABCEFCAABCEEB?>>>ACB??ABC?<=?AA?BCCB??A?>??>><:7:>BB>::;7788:88;:854555544433541*! "&),/0110.,*)('#!#/;DJLQV[^YTTTSSX\`acfffea_^\``abfilnppsstvwxzxwvsqoieav›°½׃גאÚבקÿÿםÙ׃ÝטטןןגÙאץת‎ÿÿÿÿüןÝ׀׃ÝÙײחתמÞßßגץÿÿÿÿÿץג׳Úהטקÿ‏ÿÿתיÝאלצץת‎‎ûצק‎ÿÿÿפבוץציßÞÚח<<<;;====>??==????=>>?CBAAAABB?A?BCCCAA>?BDDDBAAACCBB?===?DB???AB><=?>>>ACD?>?A>====<<88;>A><77768:887787755654444433433.#!%',.13310/.-,)'" "-8BEIMRWZWVSSSVY_``beffea_^^`aaegilopqpqsuwzxxwtqpmhff®ֵׂהםוÚוÿÿÿןÚׁװÛגממוÞהפש‏ÿÿÿÿûכÝװÙÝײ׃טתןאגויüÿÿÿÿÿץב׳Þחיש‏שÿÿ‏צחבחןנüÿÿüשצשÿÿÿפאהענזÛ״״ה8:;=????><=====>?>===>?AA>?A>===>?ABB?=?ABBBBBAAAABBCBA>?BCCB>=>?????AA?ABB?<<==>??A?=<<<==<;:8545888766888766665444555441' #')-/01110000.*&#"!!! !#',38;=AFKKKKKMRW[`a`aceffcb```beghloqsqtttvwwwvtpnnjio³ÛעקשףגÝםÿÿûÚִֶֻ״טןששכיןעÿÿÿÿ‎םזיכוÚÚטפüתםכפüÿÿÿÿÿÿףהבהזןפללקÿÿÿעהאזןת‎ü‏ûקüÿÿûיאאגחזÙׁ״88<==>?><;<<<<=>>>===>??==?>=<<=>?BBA<<>ABB???AAABBBA?>?ABDB><<>?BAAAA?>AB?;;<<=>?AAA<;===<<<;844578876777764454331134563." #'*.//00//../*'%!!""!  %'(,0566;?DIFFHIOTZ^`aabceffcba``bgijnpststsuvwwwusoljjlv¥ׁלשקשןאבץÿÿטָ¾ֶׁבןףÿûוטיפÿÿÿÿעטלעמוÚÞפש‏ûכמק‏ÿÿÿÿÿÿןחזגזפמויצÿÿÿכאבחפûüûתתק‏ÿÿלגßßחיגײּÝ:;>???AA>;;<=>???><<>>>>==>A?=;<>?AA><<>?AA?ABABAAAABAABBCEA;;;>BBBCEC>;<=====?A?ABEC>>?><;<<=8556;=;:78::644345454356533-'  "&(,,,-,**--)%"   "!"),./364114:?CA?DJQVXY[\^bfggfeefcfhilostuttuuwwxwtsmjllmƒ·אלטבםצמהכקקÞּ׀ײומפצüץÝÙßנÿÿÿÿתצץüüפחיקüÿÿףטמצûÿÿÿ‎קתמÝÙהליהחףÿÿÿםגÞßומעעצפןש‏ףואÛאפקבÊֳÙ<<>?==AA>;:<>>???===>><==>ABB=;<==??=<===>?>>AAAA???BCCBBDC>;:<?BBBCEC<:;<???>????BDD?>?><;<<<8457;><87788654356653456410-)""%'*,,**))))'#! ! "(-/04650036=CA?DJMRWY[Z^acffgfffefhjmqquvuvvvwwwutsnllmn‰ֳכןגÚטצפיזעףÝׁ״ÞםצףקתףßÛÞןÿÿÿÿûתצûÿקכםק‏ÿÿףזלץש‎ÿÿתתüןÝÝטםכוזעÿÿÿלßÙÛגכננץםזנקםגßÚגתקÝֲֵÝ=>?><>B><:;=???AA>;;<<=?>?ABB=;<=>?=<=>>>BBCCCCBAACCDCBAABB?>==ABCBCDB;8;ACB??>>ABCCA==?<88;>>878;=>=8667766547874133330/.-,( !"%(*'&&#%#"  ! ',166:<:4146>EIIIJJKMSWXY[abeefgghghjmpuwwvvxvuvvqqqmjjnx₪ה‎פÛ׀Úם‏ןßבÞÙזץüÿÿüףעיטכבוכעÿÿÿÿÿÿ‎מבבצÿÿשןילןןק‎‎תüÿנזעקעיווהתÿÿלÞ׳Þהע‎ףז׃ֽאכהחםזםקעאִּה==>=<>A=<;:=>>>AA>;<<==>??AB?=<<=?A>=<>A?BBAABBAAABDDB???BCA==??BCBAB>:8;?CA?>===ABB?>>=;87;>=87::==<7546667547751011001/./.,#!#''%##"!!! !'-48:<>:4466>ILKLJIMPRSRTX_abcfghhggijptvwxwvwuvtpopomlp{­לÿצÝׂÚיûםÝÝ״ÚםüÿÿÿÿעכבחמבßזנÿÿÿÿÿÿצוÙÞץÿÿףןםכןןץû‎‎üÿןטקüעטזגבצÿÿמאÙÞגץÿקהֹֽÚחהלףמנצףוֵֽח<<=<;=A><<<<<=?BA><=<<?ABA?>=<>AA???>?ACAADCDDCBCBDEC?==?DFB???ABBBAB><<<AA=;;;<>AA>==><878::;88:::;<613667668<:5311345430100,  %%#"  !  #*5BCBBA<8<CDEKSWSQQVWVTRQSVYY\`fhiiijosuwzzxxwuutssqsplm‚¸ףÿ‎יßגלףוהג״חÿÿÿÿÿÿןÛ׀ÙגÝÛאמפתÿÿÿÿע׳׀Úעץלןקעםףÿשןü‏קףגכÿÿüשןßßנ‎ÿûמחÞÝתÿקßֻֽ׳אכק‏‎קעףכ׀ֵכ;;;;:<?><=<<<<>AA?==<<>A??>>==>??A??==>??AABDCBBBBCCCB>>?CEEB>>?AB?A??<;=>>?<;;;>??>>==<:77778888::8:743478768;:5311455440//10'!""!  ""!!!"%*3=DEDC?==CJKKRXYXWVVWTTSSTVWX[afhiiloquwxzzxxvssttsspllx¡׳‏ÿצטבטםםטואזüÿÿÿÿÿתח׳ׁ׳ßÝßחלקÿÿÿÿÿוׂײומלםקתשש‎ÿפץ‎תצםטשÿÿתעחÞהף‎‏קןהÝכÿ‎ט״ֿ׀ÚומשÿûפףמßֽÙ;;88;=>>==<<<==?A>><<<>B><==>???>>==>????ABCDCAAAAAAB???AEEB==?BA??ABA>>?BA>==<=ABBB?=:855777:<;<;77764477876;;510345873/.0140'!"%&&'((*.18ADDFFDEKSYY[aabba`YWXXXVRRWVXZ^cjmmptvz{{{xvtsusoqqmghּשÿÿצטהמלםףיהüÿÿÿ‏ûûעהÛÙÙ׳ßלףףÿÿÿÿÿשאׁÚןענץûÿÿÿÿץומףעףמÿÿÿÿקאÛביצüשצןÞאצÿקח׳׀ׂÝםףעמנףףןא׳ז;;:88:<=<<<<<=>?>>=<;=?B?<<==>AA>><<=>??AAABA?>AA??AA???ADC?<;=BA==??>>?BA?==<<?BBB?=;:76557:;<==;8787445787787300345751-.0343) !%&'(''(*-/5<?CHJHHMRXYY_beeba[Y[\[ZTRVVTX[cjnnotvx{|{xvuvutpoolgi–ײûÿÿפטהןלעפזג‎ÿÿÿשץצעיאÛÚÚßעשצÿÿÿÿÿûג׃ÙןץץצתÿÿÿÿןבכעףנןÿÿÿÿפÞÝהלצתץףמאזûÿûמÙ׀ׁÛמףםטםןעעחÚב;;:8;<=>==>==>=>?>=<<=??>>??A>?A>>==>>?AAABA>=<>>=>BDCA>?AA?<<=B?=>>>?BCDC?===?BDEDA<<<7677;>=<==:7666556:<:5443345447400/1433, "#%%#"!"#%&&&&%&&&((,/5=DFFEDEIMQV[_aeefggeb^WTQOMPZgmnotx||{{zxwxwtpolhgn¢Þûÿשםנעכע‏עבוüÿÿ‎קעמןצןטגÝזÿÿ‏פףÿÿÿüמßÛכףץת‏ÿÿÿנבבם‎‎למÿÿÿ‏טבזנפפץןנעיףÿÿÿםֻׂ׀גץפטזמכנפי׳ׁ:::;:<=>>=>===<>>><:;>?>==>?=<>?>==>>??AAA?><;;<>=>AEDA>>BA>=;>?=<<<>BBCDB=<<>?BDDCA<;;7777;>=<=;86444567;<831313453363//01311,"%'&"!  !"#""!""#%%&(*07>BBBBBEHJOTY_beghgfe`YSQOORZgloou{||||zxzzwtsqjffo¢Ûשÿעכץץימ‎ןהישÿÿûשצעפצנכהÛטÿÿ‏םמÿÿ‏‏ףבÚומעצ‏ÿÿ‎יßהעÿÿכמÿÿÿûזחלץתקצענףנץÿ‏üיֿׂײוףםוילטנףוֽׁ8::;;=>>==?=<<====<;=?=<<<>?<<>AB>=>???AABAA???AABBCCB?>>BC?<<???><=ACEEC>;<???BCED?;;<;:88;=<;:87544468;<<70/04665344134640/.,"#(,,(# ##%&(-38<>><<==>?CEJOV\aeeeb`^XSOPXfostw|}||zvwwvwusnlggz¨װטהÝיקנכטןליעףנלןתÿÿÿüכאÚÚטûÿףßכÿÿûתןÙ׃Ûחץü‎ÿüמÞÛץÿÿ‎מעüÿתםטמץשצ‎ÿשעץüûפמזÙÛבבהילעץלזנמ״ֵָ8:<;:<==<<=<<;<=<;<<=>=;;;<<;<=AA=<=>??>?BA?A?>AABBAB?>=ABA><;=??>=>ABDDB=<=A?>ABBB=78::877::::876444457:;850/0465534413441/--," ',-,(  ""%&'-17<=<=<<<=>?CEIMTY^aaba`YQKMWeoqsw{}||{wvwvutsomhi}­װßÙ׳וןללמףלטנניהלÿÿÿÿüזÛ״ÙיצשםÝלÿÿשףוֿׁÛכûÿ‏üקיÚÚשÿÿשםםעץנייעקצפ‏ÿשףתÿ‏ףחבÛßהההחםקקליפםײִֶ<<<<;==<=??>=<<<<;<=><;;<<<>?=>B?<;<AA>==?>>B?ABDC>=>>>?BA?=8;>BA>>?BDDC>;<<<=::=>=87788;;;776776444457;=<71/.1587566444551/.//)&-34. #%'),-058:<=>?>?A???>>>AFLPT\bbZQOTbnquw}~}||xvsnquutomtֵכטÙײÝÛגÿÿûוÝכנבײחÿÿÿÿתטÝÚ״ÙÙגיÞט‎‎מזÙֽװזשÿÿÿ‏נג׃ÞÿÿÿנטßÚבזבחקקטזקûנעüÿÿםאÛÙטםאהיןצפלמםג׃¿Ê<;;::<>>?A??<;<=:;==>=;;;<<>?????<;=A?=;;===ABABBB=<===?BA?<::>BA?>ACEDC?::;;;77;>=:8778;<;744788654457<=<63//0476445334540--.-)!'.34. #%'*,-/478:<>A>BAA?>=<=<>CFOZac_WQXclsvx|}}{{zvsoqutqnmu”ּףםÛ״ÛÙגÿÿ‎וÝטמßײחÿÿÿÿשטßßÛ׳ײוםהיתשכהÚ׃ÚחשÿÿÿÿעגׂגÿÿקלהÝÙהלוטץעואמףלנûÿ‏יÛÛÝלכßוטןצףליטגװֲּ<<=<<?AA>AA><;;;;<=>=<<<;8;??===<;;;=><8:;<>ABCA?=:8;<>???><88>AAAABDDA><888888;>A><6557;<:4356;::8778<=;73/./14543310//01.---.-##*1:;3%
+
+!#&)(#"(./16<?ABBA=<::861.3=KZcc^^`enuw{}}|{zwutsttplfet״לוÝÙÙ״הקÿûיßהטא״ח‏ÿÿÿףßÙטכאÞנ‎קקעיזטכןמוםÿÿÿÿנחÞאמףכזזוכûÿןהזזßײÛהנקעקףבÞßגליאבאחקעוÝבזÛֹׂ<<<==?A?>>>=;:::;<==<<<:88;=?=<<<:::<<;77:<>BBA>=<78;=>?>=<:8:=A>>>AA?><:876778;=?>:5358;;83146:;::667::850-../143330/../0-*,-.-&#*08<3%
+	
+
+!#'&"*-.18=??>>;::864.)-8HW`a_\^enux{}|{zzwututtpiccu₪ײגÝÞÞÛ״הפûצזÞוחß״טûÿÿÿעÛÞממהועתûשלגהטןקעזיÿÿÿ‎ןטאאיםטווחנÿÿנßאגאÙÝזפצןצףßÞהחלכואÝזצפיßגוÚֻװ<<>>ABA><;:;:88;;=>A>;8668<??><<<88;<<87:=BCDB>:887:=>A><<:;88<=<<==<=<<=<888;;>>><6315:<:75446;;;;:8765530..0134110.-..03/,-/..-#  %,044-%  ##'*/3677<<:8863006DQZ\_aemsxz{zxxzxxvssuuqg`a|¬ּÙאÝבהÛÝינכגÞחחוÞאכ‎ÿÿצבכשצלזגאמפטßגלקûףםםÿÿÿÿ‎להÞÚװÚßאופÿÿםÝÝגזכםעצףללוÚגחיץףמבÛחצ‎קטגאÝֿ׃=<>=?CB>;78::88;<=??=;766:==>=<=;88;;;:7;>CBAA>;:8:<=??>;;;:8:<<<<<;<<<=<<87::;==<;6315:<:74347:;;::754331//0134311//-./130-./.--&  !%*/11,#!"! !#&(,.36:<=?><:8768=HRY^_bgoux{{zxxxzwtpsuuog`f…±׀אוÝÞגÙÝםעםחגטטזגאוûÿÿשטעüקלהÝÚכץכבהלקצענןÿÿÿÿÿםß״׃ֿײאבהץÿÿןהאßועצפץנחחßÙהטכץקףהÝםû‏שיאßÝֻ׀A>==??>;867:;;:;==><;8678<>??=<<:8<<<;:;>BCCAA?<;<<=?>?>;;<<:8;==<<;::::;:768:;=<:86656:;8877668<;::5111134311131//330/1574/..//-'  "'*--*'! "%&*.-(%"""%*/45:>ACDBA>=?EJRX[^\_bflquxz{||xwwupnponifgw¨׳פûכײֿײÙיÿÿÿüלטכעעכונüקנטיûûלא״אמשץןםנמכצשףצÿÿÿÿפו׃ֻּÙחלמתÿÿשןÞׂגûÿפיזחכזגאÝבןתüיÞלצץפנןןוֿװA=<>??=:7678;88;===;;867:=?>==<:8:;<;;;;>ACB???=:;=>?;<=;<<<;8:<<<<::888::6677;<:887656:<:877668;;:85101014113100/0310.0463.-.//-'  "&),,)& #&(-/.,'%%#'-47:=?CDECB>?EKRX[^___agnsuwz{{{zwvupmoolhfi‚·ה‎‏טֽׁװÝמÿÿÿÿלוכףצנזןצעםבה‎‏םßÚחעעףננץםלשתנףÿÿÿÿצזײֿ׀ÚטםעûÿÿûףßׂבûÿעוהחםםיגÙÚיתשטאיןעףףצצכ׳Þ?=<>A?;7557:;:8<?><;;;8::<>=<;:::8;;::<=?BCA<;:88:;<;;:8:<=<::;<===;:88:<;6566688788766:<:85568:;87740/./1453310/.154/,-/1..0110.,'"&()(& #(,/31/,**,0:DLKIHFEFEFJPV_ccccca`bgptvzxxzzxvtqoooif`au₪ׂטץכ״׃ÚחזזעÿÿÿגÝבזצûצתתעז״ÛתÿשיÞםץטםנץץטמûץןף‏ÿÿÿףבװׂײאחלצÿÿÿÿתהÝגטגÝאונûÿÿי׃ֿ׳חףכזזוהזלשתןהן?<;=A=;7558;;8:=?><;::88:<<<;:::88:::;;=ACA<8887788::::8:<>;:8:;==<::::;<;54777776787568;8754688855610.-.0343310..143.**.0/./01/-,( %'''% #(,011.,*,-3:EMMJHFFFILPV\cggeecceegotvxzzzzzvtqnnnie`b}±ײהםהײÛהמזגמתÿקאÛÙאע‎ûÿÿעבװÚקÿüןאכעחכמענטנתפעפ‎ÿÿ‎ןÛװװ״אגזקÿÿÿÿשחבבÝ׳ÙביץÿÿÿעÙׁ׃העןיוההוישתףכץA=<<><:868;<<:=A?=<;:8:;:88;;<<:7787:;<=<;8667877:88:<:8;>=;8:<;>>=;:;;=<;757678<<:855788765678763341///343310/...00-*),-./1/./.-*)# #%&&! %(,.///./016=DKKIJKOTY\^agjighgeeghjnptvvwzzwutnhfiic^f’ֻÞÝחא׳ßחץעחטליהÞֻׂ״כ‎ÿÿÿüהײÞפתצלßßחיבחףטביף‎‎ןבהנקזֿׁײוןיםש‎‏‏פחבב״ֶֹÝף‎ÿ‎‎ÿ‎לÞÙÞלעזÞהןןחןפפעףA<:;><:878<;;;<?A>=<:8:;:888::<856767;::;85456777888:<:8;<<88:<<>><;88:;<:656768<<;64356776566775331///155433/.---/.,)*,--.0/-.-,*(#"%%&" #(,.00/.0147=EKKKLPSY\`acijlihhfffhlmpstvwxxwvsmfchgb^hׂßßוא׳ÝזץץכזזבÞÛּׁÙל‎ÿÿÿÿו״ßמףניÞÞוחÞזפחגםעÿÿטײÚןצהֻÊ״כצםנתûüתןאÝבÚֻÊאתÿÿשתÿ‏נבÛÞטןא״הףעזיןץממ?<:;><867:<<;;<>>=;:;88;867:;:7766678878:75467::8::8;;767:;77;;:;;85468:;:75667;>>;63577:;:853455310135541////0//-,,-,,,,-.00..-,),*# #%%"!#(-///.../36:>DIMRV[`chhgjlljhhihfhillfeltuwtspnhbccb[Yt³ÛהההאÙÝלקנג׳׀ֿײÝÛÛטטלÿÿÿÿחÛבטזטןטßÙÚÝחןזףÿÿ‎נÚֿ״םקוֻֽßקüפצקץעמגÙאןצמאהנ‎תםעÿÿפוÛÚוהֿׂבףצזÛהכבא>;8;<<877:<:8:;==:87888:887:;:75567888:;;85567788;;:;8657:888;;:<:7546888856678<==853467;;:740131100134430..0000/.,,---.--.1/.,-,*-,& "#%"  "%(,///.--/148=DJORW^agihhiijjihigfeghiccmsuwupomgabb`XTq¯׃ÛאאÛ״ÛכקםÝ׀ֹÊׂßאאנלי‎ÿÿÿחÞßגבוםחÝ׳״ÚחלטûÿÿüיײׂÚםשיׁׂגקüצצקפנכבÙגץ‏קטחלקצטןÿ‎מבÙÛהאׁׁגץצזÚÞוßב=;:;<;8:<;;:::;<<75568;<<8677887688:<<<=<87678788;<;77778::87:<=>;5358:78657:88;865533357751/014304313331/./3110.--/131/--/43/---./.)#!"#%##!!"%'*.//*'%"%')-1:AJPV\aceggijhghihea__befiquvupmigaZZZSJIOi‘­ֵװײׁ׃הםאֻּֽׂ׃כפםץםÙÝןתתןßװ׳ÛÞאÝׂ׀ÚאוזםÿÿÿעßײװÞעקיÚÙבףצפצנטוגÞÛחûÿÿ‎פהגטימנוÚװׁÚהגÙ״הףםÞÙÚÝ׳ו<<<<;;:;<;;88::<=85557;;865678887788:;<=;76777668;;:877787876:<?>:5568877768:8::64441015651//0344354331310.0430/...011/-,,/11/--../-(# !"###!"#%',/.-(%" !%&)/8?IOV\`befghlihghhc__`cgimstuspjhc_YWTLEDBPo”·ֽװׂײהכאװׂׂׂÙםףמעט״׳ית‏עÝׂ׃׳ÛÞÙׁװבזטימÿÿ‏םÞװװßץתיÝÚאנץצקמהאהגÞכûÿÿÿקהÝגימיÛײ׃׀ÙוזÞÙאלו״״ÛÝװוA><<=<;<<;:777:=<;6678;8733567;:8887768;:65677678<<7558:88:88:=A=8457:::88<;76776665313353/004667665433311001.-.////.-----/010../10-*(&!#%%%%%%&)*.010.)&!!'-3:BIPV\aceffgihfgfffa^^_cmqqqqmhca_^YQOJFKC,"-IsֳײÛהההזßÛÙÙזכםג׀ֻ׃ה‏ÿ‏ג׃ּÊֿ׃ÚגחןץתûüÿפמחÚ׃ׁÝןמגÛ״ÚטףüÿםÚÙוחההםק‎ÿÿי״ׂÝחÝײ׃ֽ׃טץצלחבװּ׀ÝטיבכB>=<=<;<<:8777:==;6678:8631466886676466864458768;=<7458:8:888;<=:6347:888:::668866651133530004678654431111///--.////-*,--..010/.13/-,)(! #%%&&&&'*-03431-(#"&*07AFLT[_beeffghhgggfe`^\^bjoppmjc`\[ZVOIFIQC'#8Z‰µֻ״הזטכß״װײבטלאֽֿÛכÿÿÿז׃ֳָֹװאםמנץû‏ÿ‎ןםחÙׂ׀ÛלכהÞÙÚזעüÿןßÝחטßאזעüÿ‏י׳ֿÛזßײ׀ֻ׳םûûןםזװֻ׀ßכםבכFC???=<<<<:767:=>;768:887545788668765366545:<:78<?=878;<<;:78;<:654578:;87655447777435555435667641/..//0130---./110.)),,,././01330.,,**& ""#&')))*.1488750.,.38>FMTY\_accehghgghhfc^ZWWZennjeaZTTQQMECHRVA!(Ah–ֱחףעעזÝÛׂװßß׳׳הןצÿÿÿ‎וֶָׂ׀זציßטתÿÿשןנזׂÊָׂÞבםלבבוןüÿפב׳ßטובÞוצÿתיÙׂÞחזßֹׁÙלתÿתני׳ֹֿכÿצÚאHDBAA><;<:8888;=?;67:877754678:777664356557::867<><:77<<<;768;:7654688::8655655778644665555555543/-,-../00/.-,./110,)()*-././/010.,,,))%!"#%()))*.3588:50..05:?EKRX\_`bbcegghhhgea[XVVZclmhc_WTSMMIBCLVW?1R¶גנפעחגבװֿװ״װßנננÿÿÿÿםÙֹּֽגףוÙושÿÿקםמגֹֹֽׂÞגנעטזכף‏ÿנÝװÝוחוÞבפÿüםÛײÝויא׀ÊÙטשÿתלכÚָֽכÿפ׳ÞLJECBCB=<<;::;;>=87768887778;<:877666657:;<<<;87:>=;88;=;5456877787788:;7413657::743566544553011.,-./0////-,,-/144/)()*.331.---.,)'('&%!"%')**)*-/1331/-,.06:<?HQX\^``acfiihhge`ZTQQVZejhca[WWQHHHCJZ_T7*Fx°ׁםצםנל׃¿¿ÊÝתÿםוüÿÿÿקטÚּׁÞזילןןצקהÝובװׂײ׃׳Ýמ‎ûקקûתםßָֻׁßןףטומûûלÞײ׃ÚבÝ״ײÛטüÿנטטÚָׂילÙֵÝQLIEDDA=<<<;;<<<<86668777788;<:776676657;;<<<;778<<:78;<853456678766788863/366678631443131130010.../1/.//..--.0110,(()-0330.**,,))('&&#"%'(**),-./00/-**,/47;?HRY\_aacefhiiigb^XSQSV[cigb`ZXWOFFHEP_`T6":b™ֵםüננכֿ½ֳֽא‎ÿלגשÿÿÿשלÞׁ׃ÞזןצףיןןÛײהזÛÚÛײ׃׳םÿÿתüûץיÚÊֳּßףפליםûüכÝײׁײÞÛÙÚאזצתמיחװֵװחוֱׂÙWSPMJIECAAA??>>=;8667:7687:<;88:8668:866:;:;;:855886568763013578655656530//4776663000/../.../00/.--..//..010/.133.,)-/141/.-,,,,,**('% !#(*-,***,-,.-,*((,/5:BKSX\`abegfgijifbXOJHLP\ccc`YTPKEBDLZcf_Q3
+	!8e¡ÝקמוÛÊ¿ֹ״נÿûÛײזץÿÿשעאװ״אןÿÿץבÙÝװׁבמץûעÝׂÙףÿûץקעטאװָּֿÚע‏üפןףץיÞ״ׁ״גÚ׃׳אועףיהß׀ָÙßֵֶֿÝXVSPMKHDDCCBA>>?=:878:88::;<88887568:7568:;:::844665555751/0368765453440//04665551/-./../.-.00/--,,..0/.//00..130-**./130-,,,,-,,,)(&#!%'*-,*)**,,--,*)),/5:AKSV\aabegggiiig`TKFEFOXacb_XRLF??EQ_ee^O0		
+0W”ׂןיאÙֻ¾ָÝצÿק״׃הפÿ‏צנßׂײאףÿÿץßײÙ׃ֽÞמשÿתא׃Ûע‎פמןלגÝÙװֿׂÛנÿ‎ץעףעיßÙװÚבÙ׃װÚבנץלגÝּׂÚÞָָֽÛ`^ZXTSQMLKJIIFHFECB?>>>==;;865688657765556:::;:6553136653133477887654310014567531/,,-..////00/.---.//131000/-,..-))*-.0/,)(')***))''(& %'),)('(''(*,,-/157;AIPV\`bfgghjijjicYPHDEKRY[XWTME;8<L^gge^R<	/R»ׂ׳ÞÛֶּװיתףÙֿײבעףכטוÝׁװישüףגÚÚ״ײÙונ‎ÿנאÝגיטזוÞÙÝהגÚװװוקûףלייחבאÝÝבהבÛ׀׀ßפשלג׳ׂÙÝײ׃ׁװca\YXVTQPOLLKJJHEDCA?AA>=;88657:756766656888::853334566445446777874341003445663/.---./000010/.---../031/.0/-,*,,)'(*,..,)&%')))(&&&''"
+"%(*)(&%%%&),-/1148<AEKQV[aeggiljjjifaXKDEHOTWTRSPE:5:K^gjf_XI*
+0Y˜ֵײבטÙֵÊßףצה׃׀װוףיזמהֿׂÚכץתיÞÞßÞ״ÛוףÿשטÛאזוהזגÙÝזחßׂ׀ÝנשצלזטזßÝÚÞביכגֵׂ׃עüנחאײ״Þ״ײ׳׀Ûnnmgeb_\^^ZWWWWSPLKJHFDC?<88768:756688757888876644567665553478777640/..03556541../0034413431000//11//.-,*..-,)**('(,./-)'&&(*,)'%%')'
+	
+!#&''&%&&(,.03358<BFIJLPX\beggiihgb`[XRIBDFFCCDFD;5;J^fgfc^VE(";l¥ֿנצÞÊװחןטßÝÙ״ÞזחםצזײׁׂßעןובטיוßÙßחםמנממחßאגגאטןיאֿׂÛזגהÞÛßײֻֻ׃ÞמפקמֲֽׂזעכזגÝבב׳״אÛßtqpmjeaaba^ZZZZWRPMLJHDB?<87656665567766568:767655557755553357667630/..01454110../0144311331/..//010---*,---))**)(),..-)(&&(**('%&(*(		
+!%%&%#%&*-.03468=BHKKMPW^abegggge`\YVRLDCEC>=>A>87BQ^bceb^TD'	 5aÊנצÞֻ׃גטוהב׳׃ÚהכףשטÛ׳ׂÞףעיהחטגÝ״ÙÛזמץץףיאאאבהלנכא״װÞאÞÞײײÝֵֵׁ׀גףצתןװֳֽהםחזהßהאׂÙזÝß~ƒƒ‚~wonpspllifc`ZWSOMIEB=;8778865555668677875434533456433335776640.0/0433331/-/011340.//03101//130/,*,,-..,,..,,-.//0.*('&)--*((*,.*
+
+
+
+
+ "! !&,.000158=AEIJMPSWZ^`aa_ZWSTTROJC?=8545306EVaceba`[Q?%	(J‚¾לץוׂ׃װ׳המםײֹׂבפשןחגײׂזשקץמזאÛÚֲֵֿÝנ‏ÿתןג׳ׁ׃ßלןןמלזßײװװֽׁÛֲִׂײןשןלהװÊ׃הטובÞßאÙ״גיßב‚…ˆ‰†~ttvxvspnlhe_ZVQMIEC?;777:87654556765676411353344443334788643/-//0333430-,.01131/-./14110//110-,,-.-,,*,.-,--./0/-,(''),,*((*,-)			
+   "&*./0015:>ACFILQSVX\^_^[SQQQPLKHC?<741301<LZacccb`YO>%%Cz·טצח׃׀ֿײלצמ׳Ê׃התüןוßײ׃יûשתעחא״״ֻ¾ִÙןüÿüפה׃ּׁאיכןןיהÙ׀ׂ׃ׁ״אֳָׂÛפתיהב׳ּײזטגÝ״ÝÞÙÚויÞא‘’–“†„…‹†zwsmg`ZTOJB=;778:86566547644775314654435765666875300///.0145650.-./14410144440/.../.,()*,,-.-,/0-,..00.-,,(&(-.-,)))*)'
+
+				!%(,/1567;;;>?DJQSRSXXTTSKFIIE>:887785008JX`ceeeb_[TK<!
+
+3^›ׁיÞײ׳ֽÙשüםßװ׃ßםףלגÝ׳׳טפפןזßגÝִִּׁ״בםףפנגֻׂׂבלככוÛװֹֻײÛבזÝֶֽֽכÿקכזÞÙ׃ײהזÚׂ׀װײװÙגג׀ׂ”‘”“—˜…ˆ’‘ƒ|wsmhaZSLE>;:7:8:76666555446774135654456766668753/..-../015651/...0330//4541//.....*()**,,,,*,.,,-..0.,,,(''*-,**)((((!	
+
+
+!%(,//0568:;;>AELRRQRSSPMKEDED=7645445307J[cfgggea[WPC-&Eu«ׂÙ׃ײ״׳יקןזÛ׃ײחמטהאÙײßטלניבבאײֶֹׁײÝטםמנטÛׂׂÛזיטוÝָֻֿׂÙאזגװֹֹÞשתנכזÝײׂÙßÙֽֿׁ׃ׂ׳ßו׳ֻ›™—”¡™™‘‚}|unf\TMFA<8678:76676434467861/14443136643134410/---.///11000/./..01//010.-,)**,,,)),-/.--*)),...--.,())('()*,.-*((('&		
+!&)*,-/458::8:=CHFFIFHKHA<856;61/.,,,0:FT`gjiihgb_\XRH4
+(Es¢ֱֻ״ÚֻּװÞוßײÙיזבככבװÊּÛעץיגÝװֹּÝומץמומנכטזÝÛגא״װֹֻֿֿÚאגגÝװ׀Þûÿ‏עחÛֵֶֶָּֽֿֿ׀״חמא׀ֲ׃ ₪—¢™˜’‚{ztmf[RJD>;766:;86664314567850.01110035531001110..--....10/.,-.././1000//-,))))**)),-./..-*)*-/0----)'((('()*-.*(&%&''		!&)),-03467877<BDCBEDEIFA851374/-*((*1>P^gjjjiihc_[WQE3%Am™´ָ״״ÊֹֿÛהÞÙÞיהבםלג׳ֻֻÛעצכהÚ׀ֵֿßחעשםאכםכמיÛ״ÞÛװֽׁׁׂײÝÝÛÝÝÚ׳בüÿÿףטÙÊֱֵֶָֻּּ׃גמןבֲּÙ¢¡¡¦®¡™’‹~qpneZQJC>;7667::6434410455774/.1443444453/,-..00.-./1/....-,-/30/./00.,*,,*)*,,*)*,/11///.,*,/1/,))('()))*,*,,*'#"" %(!	
+
+	
+!%&()*.///0046788;>ABED?:1/..-(&%&*4EZfjmjihihea^ZTMC-	!:`¢±ִֵֹÊ׃בחאßגגÝועםהÛׁׂÛכםהÞֵֵׂװבגםץםההזכלÞֿֿ׃װׂײÛהובÞ׃ׂאטחהזץûףיÝָֹֿײÝֿׂ׀ֻ׃גןל״ִֹÝ§¦  ¢¯¥˜˜”}ojh`WMFA<:6457:75113101445664/-/345554453/--..0/.-.03/..//../031.-.0/,,*,,***,,**,.130-./.,,-.0.*)(('')*,,-*))(&#!!%)#
+				!#&&'*.//.//33556:>AADB>710-,)(#%(3=Pbijmjiijhca^XTMB)	!7\„¨»ֱִֹ׳גחבÞבהßגםכהß״ׂ״זזאÚָׁÊ״ÝÝכעיטוהיוײֻֻׂׂײÚבטחגב׳ײגחיהגעפמחÝֹֿׁבוײֹֽֿֿÞםח׃ֵֹß®®§›—˜¢‚wi_YQLHA;86545565303431334134/-/5788:64551.--/031011431134110011/..----..-,*)*,,-.000.,*,-**,*,-,)(((((,.01.*)((&# %,(				
+	!%'(,-,-)(*-*),/68;:773//-*'##&0CTafilmmmmlhfb`[WSJ:!3Sz’™¥µׁאßÙ׃ÚטחÛװײ״ÚÚÙÙגזאÝ׃׀ׁײ׳ײאוזנןהÝײֶֹֿ״אזכחוÛÞזליאאגÚײאחגÞ׳ׂ׀ושנבֱֵָׂ׳ÝׁÊּֿß¯¯¨›“–› ‰‰†}sf\TMID?;:7655555303553311011..16888:53330/.//01333343114310//000..--.../-,,***-./000-)))*))***,***(()*,/10-*(''%"'-*			
+!#&()-.,(&)*('(.155333.-.*)%#%,;Q`fgimnoonligc`\XRH73Qu¨ֶײ׳ׁ׀Ûטו״ֿֿװÚÞÙÛהחגÞװׂ׃״״׳ההאמםא״ֹֹׁׁÝהטיוא׳ÝטעןßÝÛׂׂÞזגÛײׂׂחשץחװֳָֹÙÛֹֽׁׁג®¯©–™“ˆ~|wmbYQIEA>:788766555555641455311135776541/110/////0331/.00/000//.011/-*--.-,-.---//.-/0.*(&&(),,,-,,--****-00,'%#"")/.(
+
+
+"%&%"#" #&'&#%%"%&#"%,;L[effijnopnllieb_[WOC-	/KowZVh‹§¸ֱֿגהÙָֽÊÚםלגאהיהÝÚÝÞÚגככßװ׳ÛßװּÊÊׂגםלגÞײּײגכיÚֳָֽֿהןבֿׁׂײישצז׃Ê׀ÛגÞׂ׀װֽÛ«®©›’“„|tog\SKEA>;:7687556655445313553101457643100330///./141/-./..../.-.031.-,-..,*,.--,..-,-.-(''&'),,**,-.-**))--,(&#!!*//,%
+   !  ""!   "#"!"#!#%"%,6HXafgiiloponligea_YVMA*.Jnˆ{YJTq’°ֱׂגב״ֿÊֻÝףןגÞבכזאבגבÞזנןÞׂ׃Úג״ּֽֽװגללאÝײּׂßווÙֱֳּֿחםÝֽֿׂ׳כקףהװֽׁÞוß׃׀ֽׂÛ¥§™‹‰ƒ~wpg^VLD?:877655541133344333134410345650.-//111111/.0341/-.-...--.-.0111//./.**,--./00.--,,))))*----,,..-*(()((&"-347;0
+ !"%%%%%#!!! !&.7BOW\chjlnnooonmmjhfb_YSI8-Ff„“mH6<V~¥ֱׂÚÝװֻֻװככÞגßÞאזנו׳Ýחעמװָ׀בליßÚÚÙÛחכאÙײ׳׳ÚבזÝִֵֿׂאא׳ֿ׀ׁÞננםחÞ׀ֻ׃ßבÝּׁׂז—¡¥™‹†„|voh_XQIC=875454454131113333114433113341/,-/0100131000310.---./.--.--0110..--,)(*,,../0.-,,,*****-..,,---,)&&&%#"
+
+.46:>8 "#&''(&%#""!!&.:EQY_afilmppooonmmigfb^ZRF1-Dcƒ‘tL53Fj’´ֹװÙֶׁÊׁוטÞגÚײÝחםאײÞולטֹׁ׃גםןזÞÞÛÛזיא״ײÚ׳׳גטßִָׁׁßÞײּֽ׃ßללמלאֹֿ׀ÞגÚֿֿװט—˜’†|smf^WPIEB?;74311134100013331000133111010/../3431100/010/.././/001/..//01/,))*,,)**-/0.--,,,...-,**,,,,,)('%!			"055<EH4 "&')**)(('%%#"!! !%%()))**.4=FOZagffgjnpqttpnommmmjiea_XO>&
+"-A^z–‰cA/-<Yz“¨³´°¶ִ׃זמהֻׁװבחÞײײ״Û״ֻֽÛוןץנחבÙ׳ÚבהßÙ׳׀ֽÞכזÝּׁ׳זגײֹֽֿ״ÞומםÛÊָֽÙÙׁÊׁ״א‰‘‘‹‚xog`ZRJDB?=:53111133100011110/00000/000/...-0343111/.////-..////11/--...0.*)),,-**--/0.-*)(*..--))))**))'%#!
+	
+%046:DJ:#&')***))''&%#""#"  "%*47788:::;>DMW^fiihhimpttttqnnlllljgfc_XL8 
+"->Yv–lH0)3F`w¢¥®½ֽבכאֻֽׂÝהÝ״װײÙװÊ׀אלפץןכגÙײ׳ÞחהÚ׃ּּÛוגא״׃Ýטוװֹֻֽ׃ÚזםלÚֽÊּװװֿׂ׃װÙ„ƒxoh_XQJEB=;;853334565531110010/1351/./00/0/-.00///0///--,,*-/.0.../0/..0//.*()*..,,,./00.,*((,-,,*&%%#" 
+	
+'356:BKE- "&(*,--,*)((''&((((((''((*-/38DSaghhghgfechlonnonmlmqttspnnljijlligca\SC*	#*;To„‘–ƒY;*&)-5AM`p‚”§ִ׃׃ֵֹׁװÞÛÚװײÛװֿÙזצûםאאחב׳ׂÚחהװÊָֽײÛßיכגההÞײ׀׀ּֽÚגכלÛ׳ׁÊֹֽײ׳ֱָֽ{{|tiaZRJEA=;:86411334554311//////1331/.//../-,../--./.-..,***,./0--.../--/.-,))),..--,--..**)(),,*)&"!!
+		'3668BLH1!%()*,-,*)(((('(('((((()),.05<HXbhjjjlligfimonnonmlnqqsponnmjijlligc`ZQ>%	%-<Rj‚’—‰a>-%&'*1<HXi|’¯ֲֳִֻֻׁÛÙÚ׳ײÙׂ׀ÚזץשכÛÛחהײׂÚוא׃Êֻ׀ÚßבלםזגאÛ׳׀׀ֻֽ׳אילÝÙֹֽׁ׀ײײֻ¿ֶvqlg_TMHD><:76531134555356410////.110///..//.../0///00../.----.--.--//.--,,--,*,./--,,)**,,,,)&&'&" 	*3657?MQB)!#&)*,----**)(('(())(),,,-./3;ER^cfgijijlllmlljlnnopoooqonnmnnmjigec^VF.
+	%-;Pg|”‘vM5'#%&%&')/8DXnƒ”¦³¸Ê׃ׁ׃װװÚÛ״Þגבßאßװֽ׃ÛבÝׁׂׂÙוטובÝגß״ÙÙÚ׳׀ֻ׃ÞבגÞÝׁÊׁ׳ײָֻֿׁqlg`XQJD?<;:75411134554355310///../00...--.///-.//--/00/.-.----,***-//-,**,,-,*-..-,**((()**)'#"""	*3557>LSF. "%')*----,*))((()()))*,,--/3:ES\bcfgghllllmjijimnponmooommmmnnljgca\SA(
+	 %-;Pfxˆ“’|S7'#%'%##"&)1>Mapz¨¾ֶָֽׁׂ׳ײ׃׳ÝßהוÚֽֿׂÙבß׃ׁװÞזובÝÚגÝ׳ÚÚÛÙ׀ֻװÞßÞßÛ׀ֻׂ׳װ׀ֹֻ׃c^XRKEA><:8865331145763333101310///0/--//0111///00010/.,,,-,,-,***---**)),--,*),,)()*)(('&%! 
+-4547=ITP<%!#&(),----,***)))*,,,,--./04:CPY\_bcgiijlmjiijmmnonnnoomnnnnljjhgc_XH/	#&-;Pap~’…b>,"!#%#!",4>L_v‚¡©¬³·ֱֹֿÛחÛֹ½½ֵ׳ÞֻׁׁÙגהאÝ״ײ׳ּּ׳ײ׃׃׃ֿׁׂ׃״׃ֿ׀ּֿׁ׀ָֹֿß^XQKEA<;:888543100356510000/010//.///.././0/..-.//0//.*****)*-,*,--,,,*)*,--*)*,*(&())'%&%!	-4547=HSQA) #%'),-...-,,****,-----./114:CMVZ^aefhijlmmljlmooqqqppononnmmmljgc^TB)	%&-<Oap}‹“‹iC.%!"%# !&,5CTcs„— «·¾ֵ׃Þװֲ÷¸ֲ׃׳ּÊ׀ÙבאאÞÛ׃ׁÊÊֿׁׂ׃ּֽׂׂׂׂÊÊׁ׀ִֵֽֿׁÊÞPJD?<867676653110134440//00////0/034300/././/.---./-****,.../0/./0/0/..-,------*)(())&!			!16768>FSXO:% #&(*-....///.---.//11133468>CJRY^`cfilnnnpqpqspstqssqponoqponmlicYH/
+	
+#&'-;Oamz†‘‘~S6(""%%"! %*3=IZht¢­±« ¡®¾ָֻׁׂ׳ÙÚהßײ׀ֶֹ׀װׂװ״װֿֿ״Ùֻׁ׀״ÝÛÙִֵֵּֿMEB=:655667643111133310///00/.//./1330///.../.-*,..-*)),..../0/////10--,,,,,--*('%&'&"		!05577=FRYQ?("&(*,-...//.......00113457;?EKQX\`cfijmnmpqqpqqsppppqpnopqqonmjg`TB'	#&'-:L_lx…’X7)"!##"!#)3=JWbp‚“”“¡³ֱֶּ׀׳װ׳ß״׀ֶֻÊװ״װװ״׳ֿׂÞÛ׀ֹֿÙßאÙֱֱִֻÊEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ
