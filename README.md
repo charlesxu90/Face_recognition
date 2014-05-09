@@ -13,4 +13,8 @@ First, I need to do is feature selection. I will try two different methods on fa
 
 Then, I will use SVM and NN with different parameters to classify these faces.
 
+PCA_SVM_ANN folder shows codes for PCA feature selection with SVM and ANN classification.
+
+ICA_SVM_ANN folder shows codes of ICA feature selection with SVM and ANN classification.
+
 Copy right by Charles Xu: charlesxu90@gmail.com
